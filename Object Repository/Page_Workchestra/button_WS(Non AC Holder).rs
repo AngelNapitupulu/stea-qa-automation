@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_WS(Non AC Holder)</name>
+   <tag></tag>
+   <elementGuidId>cbf631aa-c70a-489d-a60e-343e948868ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='job-role-dropdown']/li/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c175b1cd-c5eb-4014-b4c8-4d5bc14be0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>fb68a8d1-f763-4a0c-9d44-23b20152d5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> WS(Non AC Holder) </value>
+      <webElementGuid>4ce17018-b00c-4d4c-a3e1-b4f96995b7fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-role-dropdown&quot;)/li[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>8c6cdd6e-e0a7-4c8f-bc41-bff889d0c66b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='job-role-dropdown']/li/button</value>
+      <webElementGuid>7c3f942d-f27c-4f23-a177-1e287fe5f53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Involved As'])[1]/following::button[1]</value>
+      <webElementGuid>b9a9f87d-18c2-4d1c-8be5-62bb9b3979bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/following::button[2]</value>
+      <webElementGuid>1051e6b5-6d85-4e9c-a412-343c68273ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order No.'])[1]/preceding::button[1]</value>
+      <webElementGuid>9717eecf-d553-4ffc-81f2-b23c2ff30b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MWC'])[1]/preceding::button[1]</value>
+      <webElementGuid>d4cff423-1d64-4179-9b6a-bc0da7133b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WS(Non AC Holder)']/parent::*</value>
+      <webElementGuid>7056f319-ef07-4b5b-8957-39e2c4baaa0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>9e35c65a-143d-445f-b6a3-a94927eebf4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' WS(Non AC Holder) ' or . = ' WS(Non AC Holder) ')]</value>
+      <webElementGuid>d2eab89f-386e-4555-a5aa-5706b1d4fba7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Job Orders_nav-icon icon-drawer ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>732a1fb3-a491-41fe-8e5a-293070bd9e92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-sidebar-nav-link-content/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.nav-icon.icon-drawer.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>42d94b34-c4c7-4951-8a09-48f6aa6fcccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-icon icon-drawer ng-star-inserted</value>
+      <webElementGuid>03403359-012f-487b-8375-15f14f2850d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/app-sidebar[@class=&quot;nav-title ng-star-inserted nav-bg-color sidebar&quot;]/app-sidebar-nav[@class=&quot;ps sidebar-nav&quot;]/app-sidebar-nav-items[@class=&quot;nav&quot;]/app-sidebar-nav-dropdown[@class=&quot;open nav-item nav-dropdown nav-link-group ng-star-inserted&quot;]/app-sidebar-nav-items[@class=&quot;nav-dropdown-items&quot;]/app-sidebar-nav-link[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link ng-star-inserted&quot;]/app-sidebar-nav-link-content[1]/i[@class=&quot;nav-icon icon-drawer ng-star-inserted&quot;]</value>
+      <webElementGuid>439c9dad-f9b0-4bb1-b30e-5d47e99bde43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-sidebar-nav-link-content/i</value>
+      <webElementGuid>08f8f25a-1f6c-4869-99a1-cc97044695ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Passed</name>
+   <tag></tag>
+   <elementGuidId>123149c6-af63-440d-94f9-385ccc6725a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-collapse-0']/ul/li[2]/app-crr-form-renderer-section-field/div/div/div/div[2]/wc-pass-fail-field/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wc-pass-fail-field.ng-star-inserted > div.form-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b699b088-5085-485f-a7c6-1d3a48d9d49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check</value>
+      <webElementGuid>b43a13ab-f807-4a14-b45f-d0d39e01afbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Passed </value>
+      <webElementGuid>2296d214-1c6a-423d-895c-c668a9c5ce45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/app-eworkbag-crr-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/app-crr-form-renderer-sections-container[1]/div[@class=&quot;mt-1 ml-3 mr-3 h-100&quot;]/app-crr-form-renderer-section[@class=&quot;crr-form-renderer-section-1188-0 ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@id=&quot;section-collapse-0&quot;]/ul[@class=&quot;list-group list-group-flush ng-star-inserted&quot;]/li[@class=&quot;list-group-item crr-form-renderer-section-1188-0-field-1 ng-star-inserted&quot;]/app-crr-form-renderer-section-field[1]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;p-1&quot;]/div[2]/wc-pass-fail-field[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>506cb85b-ff84-46a3-8d6a-c8afea784245</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-collapse-0']/ul/li[2]/app-crr-form-renderer-section-field/div/div/div/div[2]/wc-pass-fail-field/div</value>
+      <webElementGuid>a0c34e28-cc6f-4dc6-bb8f-3577f21a0f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[3]</value>
+      <webElementGuid>b7664039-5dd8-473c-abe7-91960f5d440a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pg 1003 -1004 Para 1.D.(2) (a) – (k)'])[2]/following::div[3]</value>
+      <webElementGuid>aa125631-e147-47d6-b023-4fd0b8d58218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed'])[1]/preceding::div[1]</value>
+      <webElementGuid>ad742a0b-c1e2-49ca-b513-c291abb8a905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//wc-pass-fail-field/div</value>
+      <webElementGuid>d94d5e30-fb66-4ac8-9cf7-44751967551e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Passed ' or . = ' Passed ')]</value>
+      <webElementGuid>762fdff9-64d5-4dba-bf79-cdaaf7543b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
