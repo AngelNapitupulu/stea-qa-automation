@@ -41,5 +41,3 @@ WebUI.click(findTestObject('Object Repository/Page_Workchestra/img_Created_curso
 
 WebUI.closeBrowser()
 
-WebUI.openBrowser('')
-

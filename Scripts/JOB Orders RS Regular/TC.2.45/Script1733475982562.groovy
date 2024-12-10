@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/eworkbag/job/317')
+
+WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '80309001')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Password'), 'u1JKymZE/SfHAn9XxJys1oLyz6Gnq6KX')
+
+WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/button_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Work Stages Defect Rectification Record_04ac9e'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/a_Parts Replacement Record'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Work Stages Defect Rectification Record_04ac9e'))
+
+WebUI.closeBrowser()
+

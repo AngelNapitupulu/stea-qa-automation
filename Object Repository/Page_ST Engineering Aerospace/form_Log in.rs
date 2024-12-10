@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>f2edbad0-d170-406b-a82a-b2781930ce0d</webElementGuid>
+      <webElementGuid>585a638d-4838-4ef0-bcf9-850a31c25947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>account</value>
-      <webElementGuid>9571f033-415f-4039-890e-bd42f0353670</webElementGuid>
+      <webElementGuid>9e09fba4-f388-41f1-9729-a3de4e06c7b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>method</name>
       <type>Main</type>
       <value>post</value>
-      <webElementGuid>5c01a7fa-dd0d-40fd-aae7-27828edeed9a</webElementGuid>
+      <webElementGuid>1c162d14-2e67-440c-90fe-91f00c301f11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>novalidate</name>
       <type>Main</type>
       <value>novalidate</value>
-      <webElementGuid>742b0e21-1ac7-4aa7-a6ef-819c1b5f90ff</webElementGuid>
+      <webElementGuid>6c3c69da-114c-4b2b-b644-774d3fa1eb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
                             Log in
                         
                     </value>
-      <webElementGuid>9e811a6e-c3bd-48a6-b4c3-0abc92d1fc72</webElementGuid>
+      <webElementGuid>9f14124f-99ca-4b74-a01e-f6a95a0ddfe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;account&quot;)</value>
-      <webElementGuid>0bcf2eb6-b92e-4866-a9c7-733249fc8ced</webElementGuid>
+      <webElementGuid>b7762fd8-8024-4960-8389-fa1cae9655e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//form[@id='account']</value>
-      <webElementGuid>57a4fc97-c374-4c60-9df7-2ed0605bc99a</webElementGuid>
+      <webElementGuid>b7771c8d-7f66-41b4-8133-60b501e84f03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>e5e94c43-cceb-49a4-8a72-b476618830c0</webElementGuid>
+      <webElementGuid>e37e7bfc-0eec-4f27-afca-35392cabf612</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +174,6 @@
                             Log in
                         
                     ')]</value>
-      <webElementGuid>5c4bf02c-0eca-45eb-9177-e75f06e831e6</webElementGuid>
+      <webElementGuid>85671e64-b0c1-4854-bf1f-96ca5504bb15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
