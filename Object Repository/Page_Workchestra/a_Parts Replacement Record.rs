@@ -6,12 +6,12 @@
    <elementGuidId>621006d6-b566-42ce-b1a9-64c0227dc58d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@id=''])[5]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id=''])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e816ae07-0731-4691-9ddd-8ee578d972ea</webElementGuid>
+      <webElementGuid>6b0f66d4-3471-4384-a0a9-62ac1f118009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>3d637daf-c1ec-41ab-942a-239584a300e9</webElementGuid>
+      <webElementGuid>edf2e087-efaa-417e-9058-13c7e39a80d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>a83a6b99-bd63-45f5-8c88-f789ca4f4630</webElementGuid>
+      <webElementGuid>d625f63f-c2fc-4292-a098-f76434e732c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>8a8fbe27-6525-4680-a932-2f722c0215a4</webElementGuid>
+      <webElementGuid>02b6af0c-511f-4d5a-9018-29ff77dbd422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c73cef83-5786-4719-bea5-7f8c629dac59</webElementGuid>
+      <webElementGuid>62753605-fd34-412b-98f2-9ceb2fbb96b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Parts Replacement Record</value>
-      <webElementGuid>744b3b82-37bf-451d-a6ec-0c37cb230bbc</webElementGuid>
+      <webElementGuid>61ed10db-c4ff-485d-b4a0-fca9b8d47a48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>99deb81d-c990-4e9e-a359-f4480e6fb3c8</webElementGuid>
+      <webElementGuid>7ceb72ab-c714-4f94-91e9-b39f53d3add0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@id=''])[5]</value>
-      <webElementGuid>a3ab25d6-c570-4fbc-92c5-5ed6f351a726</webElementGuid>
+      <webElementGuid>3b046a58-429b-4b6e-8921-2d4d4b08fe2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance Declaration'])[1]/following::a[1]</value>
-      <webElementGuid>ea6eb33a-9be5-45dc-8b75-3e444ca83028</webElementGuid>
+      <webElementGuid>04325cff-5791-4598-8a37-9c27353cbf95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CRR Forms'])[1]/following::a[2]</value>
-      <webElementGuid>edb43c55-55fd-4f26-b708-c46a748a4385</webElementGuid>
+      <webElementGuid>2dd7fcfc-5266-443b-8453-945fb2f406f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tool Tagging'])[1]/preceding::a[1]</value>
-      <webElementGuid>93d1a84b-9ec2-4f90-9c33-6b7509c76604</webElementGuid>
+      <webElementGuid>788d2309-8c20-4f94-8728-4427cbc2b9d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>c6bf7e6d-872d-4d0b-b937-0e3fb6ff0eb2</webElementGuid>
+      <webElementGuid>99d878d6-097f-42e1-b52a-d4a90724377b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>180dd567-96cd-403c-b03b-86057d286cd8</webElementGuid>
+      <webElementGuid>39931ec2-fa99-43be-90b1-299fc018d0d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = 'Parts Replacement Record' or . = 'Parts Replacement Record')]</value>
-      <webElementGuid>d5003446-307b-405c-9889-41b390f30bd7</webElementGuid>
+      <webElementGuid>bdd5a274-9e38-4ce6-af47-92207d7e1990</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Approve Tool Tagging</name>
+   <tag></tag>
+   <elementGuidId>abb0d36b-deb0-4029-9647-2cc31143352d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ml-2.btn.btn-sm.btn-info.ml-auto.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[28]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4c1f4d3-917e-4f7c-98e1-7a3943c9e23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95b0fd5a-2827-4066-9fdd-102312a1a6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2 btn btn-sm btn-info ml-auto ng-star-inserted</value>
+      <webElementGuid>81db3484-e102-44b0-af42-d797659df230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Approve Tool Tagging </value>
+      <webElementGuid>c9fa4d46-1f31-43ab-b095-805c9957754d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/app-job-tool-tagging[1]/div[@class=&quot;d-flex flex-wrap mb-3 ng-star-inserted&quot;]/button[@class=&quot;ml-2 btn btn-sm btn-info ml-auto ng-star-inserted&quot;]</value>
+      <webElementGuid>cb13d1a3-b217-4f64-a863-557f2b2920e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>b7906aa2-c03f-4a0c-838f-2c1532bc048e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/following::button[1]</value>
+      <webElementGuid>a701ae0a-8297-46f8-950e-ebcfb78dcb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>8689fd47-021b-4abe-963e-dcbef4244c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declared'])[3]/preceding::button[1]</value>
+      <webElementGuid>deb5fc69-ec37-421d-9378-b9f7bee805f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve Tool Tagging']/parent::*</value>
+      <webElementGuid>8384b561-530f-45cf-958a-fdc39a36acc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-job-tool-tagging/div/button</value>
+      <webElementGuid>fe90ea07-f8df-4eb8-ab56-e476be7ce424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Approve Tool Tagging ' or . = ' Approve Tool Tagging ')]</value>
+      <webElementGuid>3f34df3b-3bd7-48b9-809e-bb05760842ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

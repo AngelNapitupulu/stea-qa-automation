@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WelcometoWorkchestra</name>
+   <tag></tag>
+   <elementGuidId>ec940a7d-be36-438b-871e-5b8006045ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column.align-items-center.justify-content-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b622e5a-6dca-47d0-af37-e3fb0ffad93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-column align-items-center justify-content-center</value>
+      <webElementGuid>203cae3c-a900-4615-b11c-267f98ca984c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WelcometoWorkchestra</value>
+      <webElementGuid>2cb2baf2-eb22-4346-be37-52e11fa472ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;d-flex flex-column align-items-center justify-content-center&quot;]</value>
+      <webElementGuid>7976c3fa-9de8-4f45-9a5c-29b255f157b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
+      <webElementGuid>ea893fbf-4a02-41b1-8d2c-fb0fad4f083f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Tools'])[1]/following::div[7]</value>
+      <webElementGuid>c2eab7b9-80cb-435b-be7e-3f9ec05e6ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-component/div/div</value>
+      <webElementGuid>8ddc5828-0e32-4371-bbd9-11446a38153c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WelcometoWorkchestra' or . = 'WelcometoWorkchestra')]</value>
+      <webElementGuid>333d3510-1911-4ceb-b770-19724cdf6371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

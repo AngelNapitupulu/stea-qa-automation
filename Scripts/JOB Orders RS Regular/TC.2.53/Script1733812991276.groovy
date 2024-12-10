@@ -19,15 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/Identity/Login')
+WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/eworkbag/job/317')
 
-WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/div_Log in'))
-
-WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '80309000')
+WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '80309001')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Password'), 'u1JKymZE/SfHAn9XxJys1oLyz6Gnq6KX')
 
 WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/button_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/tab_Work StageReferenceStatusAction1. Preli_50eee8'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/button_Amend'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Workchestra/input_checkbox'), '3834000-36')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Workchestra/select_Typo Error  Missing Field  For Furth_ac932f'), 
+    'For Further Elaboration', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/button_Update'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Confirm and Sign Amendment Please place_1ae7e1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/img_Created_cursor-pointer'))
+
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/td_13. Final Inspection'))
 
 WebUI.closeBrowser()
 

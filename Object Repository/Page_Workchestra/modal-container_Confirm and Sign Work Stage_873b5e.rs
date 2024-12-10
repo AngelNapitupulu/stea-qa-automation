@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal-container_Confirm and Sign Work Stage_873b5e</name>
+   <tag></tag>
+   <elementGuidId>1545a340-1eb8-4c14-9c02-14bdafc854d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>modal-container.modal.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No tools tagged to this job.'])[1]/following::modal-container[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>modal-container</value>
+      <webElementGuid>15070f62-706c-4af9-8ce4-f05d45edf9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>64da37cb-fbef-467f-a2d8-56e5c8627ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b74c95ee-03ac-4b3c-8d93-baece352a4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show</value>
+      <webElementGuid>2e3752d0-843a-41ea-9aad-390c7249632d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>786e15ea-b7a5-4b18-a08f-a2baecaecd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Loose Article Check.  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
+      <webElementGuid>07905698-ebfa-4f30-8996-7e549dd5f043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]</value>
+      <webElementGuid>3da5c65f-619a-4d88-a706-7af2e1f475b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No tools tagged to this job.'])[1]/following::modal-container[1]</value>
+      <webElementGuid>46817ecb-cb9b-4fa0-85e7-2921fe4d920c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container</value>
+      <webElementGuid>d0fa8174-9fb1-4053-bd8d-8654277510d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//modal-container[(text() = 'Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Loose Article Check.  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ' or . = 'Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Loose Article Check.  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ')]</value>
+      <webElementGuid>7ea9f547-ace2-4b97-9965-2e8f658f6523</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
