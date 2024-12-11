@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>ul_RS  WS</name>
    <tag></tag>
-   <elementGuidId>91b56b45-ca30-4672-b800-df76cd5b85ed</elementGuidId>
+   <elementGuidId>b4147b76-578f-485b-99f1-c1382929d369</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login-submit</value>
+         <value>#job-role-dropdown</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='login-submit']</value>
+         <value>//ul[@id='job-role-dropdown']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>2a4f1dc8-0d78-4daf-a77b-7f34c197ea65</webElementGuid>
+      <value>ul</value>
+      <webElementGuid>ab084f1c-f54f-44ac-ac83-4e42399809b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login-submit</value>
-      <webElementGuid>7c9badbb-fc16-404b-8a11-c6ad309065d4</webElementGuid>
+      <value>job-role-dropdown</value>
+      <webElementGuid>958611c6-0079-40a2-8a8d-9344ec98ff72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>4ec0a0c2-291c-4c9e-b1b4-7ed00f723ba5</webElementGuid>
+      <value>menu</value>
+      <webElementGuid>1637aad7-77da-4e4c-87a3-c0783dc0e17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>job-role-button</value>
+      <webElementGuid>46945e85-e978-492c-ae9f-94337341dfb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>d3fad561-437f-4912-930e-0ef7056f8150</webElementGuid>
+      <value>dropdown-menu dropdown-menu-right show ng-star-inserted</value>
+      <webElementGuid>45594bb2-81de-4a12-85f7-56edb4ec8775</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>099c333e-24e6-4d60-9258-7dbe23a4a902</webElementGuid>
+      <value> RS  WS </value>
+      <webElementGuid>f4bea7b8-1c51-4d99-b913-8c7b4021790f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-submit&quot;)</value>
-      <webElementGuid>012ab973-e5c5-4283-a543-e4f1362591c5</webElementGuid>
+      <value>id(&quot;job-role-dropdown&quot;)</value>
+      <webElementGuid>332dcfef-2829-4421-b476-3f43ea851c87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='login-submit']</value>
-      <webElementGuid>d7f47adb-2ac0-4570-a383-c67fa0f1341d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='account']/div[3]/button</value>
-      <webElementGuid>9c9cbd1e-b0cb-4edf-a64e-0eeb5a528c46</webElementGuid>
+      <value>//ul[@id='job-role-dropdown']</value>
+      <webElementGuid>4cbd1108-7275-4be9-8afc-2aff58c2e698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>5192ac22-a5e8-4346-b045-240587faaefb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Involved As'])[1]/following::ul[1]</value>
+      <webElementGuid>ead0f278-0ed6-4fdf-8dce-e9a1e3bc6301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/following::ul[1]</value>
+      <webElementGuid>d04f86fe-e2bd-409b-8a94-6d2c9d0e50bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>6ac5f914-e77a-4032-94b5-abc1b792090c</webElementGuid>
+      <value>//div[2]/div/div/div/ul</value>
+      <webElementGuid>ac5f9340-8cff-44c3-81b2-55d19da28603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'login-submit' and @type = 'submit' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>5530f62b-0f56-4b4f-bdd8-b418a19f6ad5</webElementGuid>
+      <value>//ul[@id = 'job-role-dropdown' and (text() = ' RS  WS ' or . = ' RS  WS ')]</value>
+      <webElementGuid>fec12f8d-858d-404f-bbd5-1ce694a2f473</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

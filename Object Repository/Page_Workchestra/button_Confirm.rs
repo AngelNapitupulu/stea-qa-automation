@@ -6,12 +6,12 @@
    <elementGuidId>c0001ba3-80d0-49ba-9804-8cd02d4a6f85</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[33]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.modal-footer > button.btn.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6bac4a79-a92c-4f1b-b63d-42097dde9354</webElementGuid>
+      <webElementGuid>4b775b19-7616-44a2-a2f7-18ccd83e5123</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>400cd7cf-d652-4da2-b227-fc7248baef07</webElementGuid>
+      <webElementGuid>a8c2a3e0-2073-4241-b7aa-efb263eb65da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>f05394eb-a2ca-49f8-a023-9ed5e57752c5</webElementGuid>
+      <webElementGuid>299fa7b3-c665-4cd5-ad95-942064368b59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Confirm </value>
-      <webElementGuid>e5403c3e-793f-4f40-80d2-e0adb62dd2ec</webElementGuid>
+      <webElementGuid>69dae90a-f688-40ad-9854-edc2c3f7fb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>d89701bf-cba2-43ca-adf4-4398ab65a808</webElementGuid>
+      <webElementGuid>2cc010c2-10fb-4c7c-a9f3-9a1182857133</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[33]</value>
-      <webElementGuid>77998c6f-753f-43f0-822f-50b2dcfa351c</webElementGuid>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>15e4251e-e011-478b-9e0f-89b309c4794d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>27e3750d-55e7-45bc-9025-7b67086bdf92</webElementGuid>
+      <webElementGuid>67842c13-89de-4e15-83f8-1a54d6eb5659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RS'])[2]/following::button[2]</value>
+      <webElementGuid>1dd93484-4edf-40ba-9da4-d5a54466997b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>2ff2873d-8237-4671-abd6-a16dbec52f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button[2]</value>
+      <webElementGuid>29934323-e56a-4ddd-9108-86243cd22d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Confirm ' or . = ' Confirm ')]</value>
+      <webElementGuid>d08fa7a7-068a-48b9-8c6d-460c1d4ef6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WS'])[2]/following::button[2]</value>
+      <webElementGuid>ef680585-8cc1-415c-b4f7-0c43bd6a0e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[33]</value>
+      <webElementGuid>77998c6f-753f-43f0-822f-50b2dcfa351c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,26 +132,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>bc355883-d997-430e-bb16-544c3da61c2c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
       <webElementGuid>da16f0d4-3e08-45b6-849f-3847fac84915</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Confirm ' or . = ' Confirm ')]</value>
-      <webElementGuid>68dc0c99-4e36-48c3-bd6a-edf79315376f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,39 +238,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='RS'])[2]/following::button[2]</value>
-      <webElementGuid>69a707c6-6a93-49ff-81fa-7b2b087d8acf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/button[2]</value>
-      <webElementGuid>d4ed26e9-a187-4411-a2c3-7ecdeaf58bc5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>411b7000-4dea-452e-921e-114b5fe93961</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WS(Non AC Holder)'])[2]/following::button[2]</value>
       <webElementGuid>0d579948-98c6-4ce5-986e-1d552b8c66e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='WS'])[2]/following::button[2]</value>
-      <webElementGuid>dc85fcc0-d395-4f2a-b6fa-b432440d48b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

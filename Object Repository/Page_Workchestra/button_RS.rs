@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2bd2fa34-66bb-4554-8d0a-0a83c61e637a</webElementGuid>
+      <webElementGuid>a8c7a999-a02d-4ca8-baf8-dab61d794494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>1d94ff00-4dd0-4650-90dd-c0481016345a</webElementGuid>
+      <webElementGuid>daa2e600-f9e6-4b97-ab45-f2550f74aa41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> RS </value>
-      <webElementGuid>41693bbc-eefd-47d4-bb86-6ab0b0b7a702</webElementGuid>
+      <webElementGuid>4bce0c0c-3b19-401f-80e6-40d4c6a4c691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;job-role-dropdown&quot;)/li[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>56e0120a-bc25-4264-a747-47adf48db0e0</webElementGuid>
+      <webElementGuid>1e4b022a-e2ac-4149-b815-8d549c2b3782</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='job-role-dropdown']/li/button</value>
-      <webElementGuid>58d11cab-a0a4-484b-ae43-cef893a647dd</webElementGuid>
+      <webElementGuid>2cba8a41-c2ed-47c2-8d89-80d82afc1767</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Involved As'])[1]/following::button[1]</value>
-      <webElementGuid>2db6a615-e591-4700-8b6f-8d228ee2e60d</webElementGuid>
+      <webElementGuid>a4256370-55ad-416d-80ff-48a64fb3a2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/following::button[2]</value>
+      <webElementGuid>fed9eefb-13fe-4468-b443-b10d8c54dbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WS'])[1]/preceding::button[1]</value>
+      <webElementGuid>3e44568e-3671-4c6e-ab98-e0c53880e126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order No.'])[1]/preceding::button[2]</value>
+      <webElementGuid>f710eae2-4bb5-4552-833a-55a03734b3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RS']/parent::*</value>
+      <webElementGuid>d4e59b6c-fd7e-48e1-b66e-29313e9e0d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>be407c1d-fbf6-4d6a-97ba-448696b16aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' RS ' or . = ' RS ')]</value>
+      <webElementGuid>9ad5e6b7-e1c3-4ca8-9d8c-b128865de90c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,37 +128,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::button[1]</value>
       <webElementGuid>8c2b76a8-cd84-450a-933b-7aea7587ffce</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order No.'])[1]/preceding::button[2]</value>
-      <webElementGuid>b07ff016-caa0-4075-aa06-11e5f12da4c3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='RS']/parent::*</value>
-      <webElementGuid>f2dedd26-f7fe-464c-8ba1-a20bed3227af</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li/button</value>
-      <webElementGuid>f081b718-bc60-43be-9cc4-e825b1096689</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = ' RS ' or . = ' RS ')]</value>
-      <webElementGuid>067685c1-4682-4313-b334-8b142257f781</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
