@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>7784aa84-e5a2-45d6-abbc-8d73c8005c53</webElementGuid>
+      <webElementGuid>211f4516-db32-4864-a12d-51a309a20ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d8e8365f-30dc-47d2-8d96-26335ef18f90</webElementGuid>
+      <webElementGuid>fc3296e9-1fce-4595-a09d-7b1f448f1544</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f3925b10-98be-4fd3-8836-6af73c9c300c</webElementGuid>
+      <webElementGuid>0c635f5f-7013-4823-a2de-35314edf31a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>workstage-defect-work-to-be-carried-out</value>
-      <webElementGuid>25617655-e0f3-477f-993d-b6565bcb3905</webElementGuid>
+      <webElementGuid>97a5c2aa-f917-423e-8560-66202d745849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>a4663c3b-6a3b-4ade-a11f-10a506e860de</webElementGuid>
+      <webElementGuid>229fd658-693e-4d24-a5db-0626f6c33f2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>64e7450d-d7e5-4b04-8678-eaab0f19a4fc</webElementGuid>
+      <webElementGuid>ebdf3551-5f3b-4d1d-b6dd-596392ccf036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;workstage-defect-work-to-be-carried-out&quot;)</value>
-      <webElementGuid>7920f120-7e06-47f7-bc12-193601a08cd2</webElementGuid>
+      <webElementGuid>cd26e8f5-4915-43e3-8da9-88947e47e129</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='workstage-defect-work-to-be-carried-out']</value>
-      <webElementGuid>dced3ae1-9fb7-41d8-baed-c4045ba0a8a0</webElementGuid>
+      <webElementGuid>af4cc51c-6e12-4d7c-a8b2-9af5b42024b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>61a7b080-0620-4eae-bc12-f5fc7ecd934c</webElementGuid>
+      <webElementGuid>f7706a02-bc99-4d0b-827a-b69d16580178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@type = 'text' and @id = 'workstage-defect-work-to-be-carried-out']</value>
-      <webElementGuid>f2abceb2-ecb2-4867-a42b-0f8eba993f14</webElementGuid>
+      <webElementGuid>eaa03d50-fbd5-4ef8-980f-56dab1b30197</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

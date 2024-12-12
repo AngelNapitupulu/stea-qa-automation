@@ -6,12 +6,12 @@
    <elementGuidId>e4088814-4619-4911-979e-14260dec9ed4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#workstageReferenceInput</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='workstageReferenceInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#workstageReferenceInput</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f6fa658b-b016-4672-8e7a-91bb01df440a</webElementGuid>
+      <webElementGuid>647c79a5-25de-4c18-8436-fc3cc070c70b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>workstageReferenceInput</value>
-      <webElementGuid>eb6c995d-eea0-4b58-925e-cb22922325e5</webElementGuid>
+      <webElementGuid>9f41f5b2-9088-4d41-afa4-b322b22678cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9153a7ca-7a12-43a7-919d-b551c9c748ee</webElementGuid>
+      <webElementGuid>15a3c52b-e3c1-4c2d-ab38-9adf6262b99d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>47d38065-9a3c-4c01-a18f-706a19c0799d</webElementGuid>
+      <webElementGuid>0276d643-d8a9-453f-b7de-323c60b3be18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>3d2f5763-3a63-40d4-a2eb-feb84ead9e88</webElementGuid>
+      <webElementGuid>555f4897-2a05-41d9-b8a2-834fc8e892a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>07fcab3a-9de5-4938-9f78-f57dc4396782</webElementGuid>
+      <webElementGuid>ed4b8128-e272-42c0-96ca-b2975c0dbf60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>0e52d246-28e9-402c-b800-12cdce832e8e</webElementGuid>
+      <webElementGuid>4c57059a-3176-40fd-80c6-c1aaec7f9c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;workstageReferenceInput&quot;)</value>
-      <webElementGuid>41d8308d-8470-42e5-b41f-7fbd5faff22f</webElementGuid>
+      <webElementGuid>39810b73-1885-4fdc-a0d5-39b6edfaba44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='workstageReferenceInput']</value>
-      <webElementGuid>12f46cf4-cac2-4638-bbd4-910f1b3600e4</webElementGuid>
+      <webElementGuid>9f4e1440-f08e-417b-b65c-8c62f7348515</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>21b672bf-a6ee-4771-9f3c-b3f06f435dac</webElementGuid>
+      <webElementGuid>c3b8796e-ba40-4691-a480-03bf52405010</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'workstageReferenceInput' and @type = 'text']</value>
-      <webElementGuid>68a6df4c-dc71-464b-9c4d-70a16f29fadc</webElementGuid>
+      <webElementGuid>09848a51-ed6a-446b-b3d9-98f83b7034dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

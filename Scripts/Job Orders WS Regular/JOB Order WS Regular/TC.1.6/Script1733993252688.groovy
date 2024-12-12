@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/eworkbag/job/268')
+WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/eworkbag/job/314')
 
 WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '80309000')
 
@@ -27,15 +27,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_ST Engineering Aer
 
 WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/button_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Back Assigned TechniciansRoleTechnician_d8fc3e'))
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Back Assigned TechniciansRoleTechnician_0503e0'))
 
-WebUI.click(findTestObject('Object Repository/Page_Workchestra/button_Get Involved As'))
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Job Details Work Stages Defect Rectific_bc6837'))
 
-WebUI.click(findTestObject('Object Repository/Page_Workchestra/button_RS'))
-
-WebUI.click(findTestObject('Object Repository/Page_Workchestra/button_Confirm'))
-
-WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Back Assigned TechniciansRoleTechnician_198169'))
+WebUI.click(findTestObject('Object Repository/Page_Workchestra/div_Work StageReferenceStatusAction1. Preli_e7ec7c'))
 
 WebUI.closeBrowser()
 

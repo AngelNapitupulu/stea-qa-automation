@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assigned TechniciansRoleTechniciansWork_1adb22</name>
+   <tag></tag>
+   <elementGuidId>2e9edb10-e542-43a0-9841-7be260c0129d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assigned-roles-accordion']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54876d07-341b-46cc-84d0-8857ddb97430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>59348a1a-b45f-4b70-8b9d-db8bb8d615d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory-NDT Technician-Special Processes Technician-</value>
+      <webElementGuid>7d703e06-0f2b-4ec2-aac2-544cbac75fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assigned-roles-accordion&quot;)/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>87a326fb-cc20-41cb-b57d-da0b54905f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assigned-roles-accordion']/div</value>
+      <webElementGuid>f42a00da-c667-4449-8feb-faf25f55d714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[3]</value>
+      <webElementGuid>5f32a39b-bbbf-4ab3-924d-c2441e24209b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order'])[1]/following::div[5]</value>
+      <webElementGuid>3a41151f-900f-4ff5-a792-c45f2bf4645f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-job-assigned-roles/div/div</value>
+      <webElementGuid>3ce9da96-52f9-4343-b86a-d8fc2b4b151b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory-NDT Technician-Special Processes Technician-' or . = 'Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory-NDT Technician-Special Processes Technician-')]</value>
+      <webElementGuid>5a065992-9e12-444c-a94c-7c21d8a1291c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

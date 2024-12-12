@@ -6,12 +6,12 @@
    <elementGuidId>829abef9-f329-45e0-904b-4f2f03eccc16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.form-control.ng-untouched.ng-pristine.ng-valid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-pristine.ng-valid.ng-touched</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a755c2ee-5b5f-4976-a181-0749abf0aa1c</webElementGuid>
+      <webElementGuid>8686e60c-48e1-4e9c-a049-9fde5e8343bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>71f05d59-f429-48d6-9333-8eb671e439d4</webElementGuid>
+      <webElementGuid>30ec35f2-37ab-40ca-a119-ecf83bdf8eee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col typeahead-input-wrapper&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>a404a9bf-30cf-4b9c-b0fb-addd6d613bcb</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col typeahead-input-wrapper&quot;]/input[@class=&quot;form-control ng-pristine ng-valid ng-touched&quot;]</value>
+      <webElementGuid>e24d0c8b-bf9a-4175-adaa-cf620d96ce85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cdd8a29b-7b38-49ae-86e5-dc72e2c56f76</webElementGuid>
+      <webElementGuid>c219750d-89aa-475e-b46d-07b5ad0a41bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>86228a9a-0f4f-4ab4-bc3b-f9a874f03b69</webElementGuid>
+      <value>form-control ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>19d4921d-3bf1-4054-824c-1ea6bed63ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>334d7bd6-01c7-4d65-a7dd-bad074f6c5a6</webElementGuid>
+      <webElementGuid>08923bc2-cc96-4e41-976f-c4f8949fdb54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>ce484a03-a858-4084-98bc-da0f2d27fe23</webElementGuid>
+      <webElementGuid>1479b69c-4ba3-4109-b5a1-2e934e50c845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>f574996c-c616-49fc-9d3f-d9b751ad39ab</webElementGuid>
+      <webElementGuid>395238b8-d1c8-4b90-a50d-ee48a229e074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>145e07b5-094a-4c5f-9609-4ce3df637355</webElementGuid>
+      <webElementGuid>88a6772a-3c85-4b52-b004-bc62bb82bca9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>e47c0eb2-b9c2-4ef8-b964-5a8aa5250c6c</webElementGuid>
+      <webElementGuid>351d8b03-ca11-4385-80b6-fa7cef94808f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
