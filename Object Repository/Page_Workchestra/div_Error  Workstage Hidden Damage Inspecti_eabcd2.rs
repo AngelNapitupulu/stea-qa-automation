@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bfeb3753-cf9e-4ebe-a50f-119a61508565</webElementGuid>
+      <webElementGuid>0f40169e-4150-4265-a871-2dd308fe1c44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c72-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error</value>
-      <webElementGuid>0e84bd22-6cb2-48fe-a6c5-edaef45e804a</webElementGuid>
+      <webElementGuid>71bbc9a0-0cd9-43b1-b2ec-24449b4a7950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>× Error  Workstage Hidden Damage Inspection reference is required. </value>
-      <webElementGuid>52a8ad65-e80c-48cb-9965-c136c1486f83</webElementGuid>
+      <webElementGuid>5bc554e1-63b1-4d1c-a03c-bef3d712215b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c72-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error&quot;]</value>
-      <webElementGuid>4dde860e-c06b-41ef-9bb3-dac9bfe75105</webElementGuid>
+      <webElementGuid>ad451843-4681-4905-8f07-754f3d3b3ef8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='toast-container']/div</value>
-      <webElementGuid>11927d09-a7d6-4650-9cfd-137f73f6459a</webElementGuid>
+      <webElementGuid>5bb07182-8062-4150-8ade-ec46ad8f7d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::div[8]</value>
-      <webElementGuid>87f90445-e162-463f-9f17-24842ee8e5d2</webElementGuid>
+      <webElementGuid>a34f0201-81ae-443e-b80d-bc2a8a3501c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[2]/div/div</value>
-      <webElementGuid>7e0c2c7c-5402-49e2-a23c-a4e315d46ab6</webElementGuid>
+      <webElementGuid>71c26ad4-5468-4951-a114-9e4511d9d866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '× Error  Workstage Hidden Damage Inspection reference is required. ' or . = '× Error  Workstage Hidden Damage Inspection reference is required. ')]</value>
-      <webElementGuid>847feeea-32e2-407d-8139-da8728ce858a</webElementGuid>
+      <webElementGuid>41067277-8af3-46de-9d1a-5af663b2547b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

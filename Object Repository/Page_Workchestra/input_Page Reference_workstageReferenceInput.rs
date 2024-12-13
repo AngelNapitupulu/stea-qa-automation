@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>647c79a5-25de-4c18-8436-fc3cc070c70b</webElementGuid>
+      <webElementGuid>40cee52b-091e-478c-aa73-60cf7e5e9b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>workstageReferenceInput</value>
-      <webElementGuid>9f41f5b2-9088-4d41-afa4-b322b22678cc</webElementGuid>
+      <webElementGuid>d5f1a2d1-97b8-48e4-94ae-47666251ce58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>15a3c52b-e3c1-4c2d-ab38-9adf6262b99d</webElementGuid>
+      <webElementGuid>a5af9c55-4be0-4977-9d5b-cffa44803ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0276d643-d8a9-453f-b7de-323c60b3be18</webElementGuid>
+      <webElementGuid>fea441f0-bbe6-4d96-bf33-ea36e454e1d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>555f4897-2a05-41d9-b8a2-834fc8e892a6</webElementGuid>
+      <value>form-control ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>a3ac7759-ceda-48c6-b872-ded46469529c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ed4b8128-e272-42c0-96ca-b2975c0dbf60</webElementGuid>
+      <webElementGuid>27e5e582-579d-464c-82e3-358706df1e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>4c57059a-3176-40fd-80c6-c1aaec7f9c81</webElementGuid>
+      <webElementGuid>11d44ee3-0372-43dc-a861-347e4cf24a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;workstageReferenceInput&quot;)</value>
-      <webElementGuid>39810b73-1885-4fdc-a0d5-39b6edfaba44</webElementGuid>
+      <webElementGuid>237ecdb7-669b-40e9-b7a8-b0eaa0979aa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='workstageReferenceInput']</value>
-      <webElementGuid>9f4e1440-f08e-417b-b65c-8c62f7348515</webElementGuid>
+      <webElementGuid>ca7aae32-0144-4baf-b908-760fb2687a99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>c3b8796e-ba40-4691-a480-03bf52405010</webElementGuid>
+      <webElementGuid>265f1379-97d4-4561-8b1d-8ab883597f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'workstageReferenceInput' and @type = 'text']</value>
-      <webElementGuid>09848a51-ed6a-446b-b3d9-98f83b7034dd</webElementGuid>
+      <webElementGuid>44ffe3a7-fd3a-43ba-a5c8-0d657afa1efd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

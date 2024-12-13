@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[6]</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-sm.btn-warning.m-1.ng-star-inserted</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>642faa80-c2ac-4913-975f-bf0827645626</webElementGuid>
+      <webElementGuid>5d2f8396-b8f0-4460-84ec-0c398fcf2137</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>adf7b9d0-9f6e-4eaf-855a-6a1f2741ca9d</webElementGuid>
+      <webElementGuid>75542158-5eb5-4c8a-bcfc-2deca5c7a041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-warning m-1 ng-star-inserted</value>
-      <webElementGuid>0a3a5472-fddc-4d50-9352-b1507f2472b4</webElementGuid>
+      <webElementGuid>6e44e06c-baa6-4d4c-a422-550ea5fcfffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Amend </value>
-      <webElementGuid>5608dc39-5998-4974-945e-83fefddaf750</webElementGuid>
+      <webElementGuid>51b3dbbc-d7cc-42da-9609-d62b94343904</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,10 +55,66 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/app-work-stages[1]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/div[1]/button[@class=&quot;btn btn-sm btn-warning m-1 ng-star-inserted&quot;]</value>
-      <webElementGuid>cfa93996-9833-46fb-a76c-ddce0ab5c229</webElementGuid>
+      <webElementGuid>f0b598bd-33b0-4837-b4ab-6ea7d1b3c707</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>cd99631e-606a-4152-ae7e-316f5ac71558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by EmpNo:80309000 on 12/Dec/24'])[4]/following::button[1]</value>
+      <webElementGuid>3dcf1185-2a15-451c-98fd-a308ccc33f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[2]/following::button[1]</value>
+      <webElementGuid>33ace20a-4da6-4b47-8ab8-1543681d2aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::button[1]</value>
+      <webElementGuid>cdc7a340-a718-4f37-9701-87e652308e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/preceding::button[1]</value>
+      <webElementGuid>b23bd047-e52c-44b3-b2c6-6ed38c42b05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/div/button</value>
+      <webElementGuid>41f7b881-7150-4c0e-9df0-a64c1dbfacf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Amend ' or . = ' Amend ')]</value>
+      <webElementGuid>c302a9b6-0660-4955-ae11-f23c8e58b0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -86,22 +142,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::button[1]</value>
-      <webElementGuid>840a91e3-9e5f-40ac-a773-6f8daf1f1490</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/preceding::button[1]</value>
-      <webElementGuid>463c5cc3-244b-4d06-b5df-93cfc597ce57</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>//*/text()[normalize-space(.)='Amend']/parent::*</value>
       <webElementGuid>dc45e782-abf5-4e07-83e1-96fb0fbf9f58</webElementGuid>
    </webElementXpaths>
@@ -112,14 +152,6 @@
       <type>Main</type>
       <value>//td[4]/div/button</value>
       <webElementGuid>ffe7ffe4-a1be-47d3-80e9-99b4aa790c04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Amend ' or . = ' Amend ')]</value>
-      <webElementGuid>6d80427b-746c-4e6d-84b0-cdb972836b0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -208,14 +240,6 @@
       <type>Main</type>
       <value>//tr[15]/td[4]/div/button</value>
       <webElementGuid>b7cf35a3-9806-4c2f-aa96-2d5576c9396f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>83d17203-3b23-441b-b64d-227e042bbf27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -744,22 +768,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='by EmpNo:80309001 on 30/Nov/24'])[3]/following::button[1]</value>
       <webElementGuid>0c273ebd-7e4c-4af9-bf08-25590254aa8a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[2]/following::button[1]</value>
-      <webElementGuid>fe0ba13e-2c78-423d-baab-11a450ebf133</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[2]/td[4]/div/button</value>
-      <webElementGuid>b73dfd84-57a2-4106-9621-1ac5868d5db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

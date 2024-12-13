@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ad065488-ddae-402f-b886-8894e93e3d09</webElementGuid>
+      <webElementGuid>d0db72d6-f736-44fb-badb-fe624a7fb4ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>37310cfd-7c34-4fd7-afa0-d5254121ad6b</webElementGuid>
+      <webElementGuid>8c17ef15-f56a-4466-b226-ca22dac10dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>f48f697f-1b88-4e2d-9f13-f1ca8dafb3c3</webElementGuid>
+      <webElementGuid>98554458-ea2e-433d-8221-5ae5728f6080</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>b4a3c8ba-5807-4a8a-9b29-74ead566aac1</webElementGuid>
+      <webElementGuid>c5d669ef-a634-4fee-b04e-3bb75c91a051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>d1f5475b-e980-483d-9922-7434caf9ad11</webElementGuid>
+      <webElementGuid>27173959-a76c-45bf-a120-c1d5c4cb9975</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>6136ed49-2cdd-4280-80f8-88fcfb7c27b5</webElementGuid>
+      <webElementGuid>d73abb7b-42f9-4b1c-85ed-e64701b13a68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Reference'])[1]/following::button[1]</value>
-      <webElementGuid>80c36456-a8ea-4e3e-b93d-0ae71a3eb1d0</webElementGuid>
+      <webElementGuid>020aab61-2a97-4e4c-9a1b-6e606611cdff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hidden Damage Inspection'])[1]/following::button[1]</value>
+      <webElementGuid>6add5250-e44c-4300-90cf-0313311af822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::button[1]</value>
+      <webElementGuid>52dc386a-9411-486a-9c5e-22b4efeb79ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>d78a90c9-74fd-4483-8ea9-16d3bf7babec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button</value>
+      <webElementGuid>1ba7a975-b1cd-4e4d-b5a3-61f493a29b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>09fa8394-cec6-4493-ba74-cfa68f880060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,38 +120,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Preliminary Inspection'])[1]/following::button[1]</value>
       <webElementGuid>af274545-ecc5-4c8d-8586-12db800b1952</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::button[1]</value>
-      <webElementGuid>356d8a61-ac83-4aa7-b91f-d6acb3e2bbcd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>401decd3-d083-4858-9f67-1ea009fe5192</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form/div[3]/button</value>
-      <webElementGuid>fc5d269a-c7d7-4225-bcfa-7e26d2147984</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>4d9d6622-2df5-4bb7-8bbd-82533d48fb8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,13 +168,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select manual ref'])[1]/following::button[1]</value>
       <webElementGuid>f61e57bd-6f14-4142-a182-fecd16b66a71</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hidden Damage Inspection'])[1]/following::button[1]</value>
-      <webElementGuid>5d9fe0da-1c1a-44db-9a70-b1b0b927c813</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='MOD'])[2]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select maintenance workscope'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>de44d991-aa81-45dc-b06f-7bb1b0a638fe</webElementGuid>
+      <webElementGuid>1a66fcfc-72d9-47c1-badf-16b32b08188a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,18 +31,58 @@
       <name>class</name>
       <type>Main</type>
       <value>click-to-edit-input-button button btn-secondary</value>
-      <webElementGuid>0179ee16-6ef4-4edb-940e-da7f7af4bfaf</webElementGuid>
+      <webElementGuid>7fe41788-16e8-46be-aaf6-d9e0c518c3dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-4 mb-3 required ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;click-to-edit-input-button button btn-secondary&quot;]</value>
-      <webElementGuid>70acce1f-2577-49a7-b036-ad546e012610</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-4 mb-3 required&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;click-to-edit-input-button button btn-secondary&quot;]</value>
+      <webElementGuid>041ef8df-cac9-478a-a1ff-e79a30bf3a9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select maintenance workscope'])[1]/following::button[1]</value>
+      <webElementGuid>01569ded-b692-4475-ad8e-b3109c165dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Task'])[1]/following::button[1]</value>
+      <webElementGuid>7c635217-5ed9-432e-a33b-cc8e153eb20f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial CRR Nos.'])[1]/preceding::button[2]</value>
+      <webElementGuid>44c0d913-f086-4fde-a705-8352987e08b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strtmlfn date'])[1]/preceding::button[2]</value>
+      <webElementGuid>49ca6c78-d669-4e80-9f08-47d398f0eb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>a8b15663-51bc-4f7e-b06d-cbc788586758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -56,22 +96,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select work done work scope'])[1]/following::button[1]</value>
       <webElementGuid>cd2bf149-14aa-440c-8101-25211e3ae541</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial CRR Nos.'])[1]/preceding::button[2]</value>
-      <webElementGuid>6f65a224-6f8b-49d2-985d-4b60afcb6398</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strtmlfn date'])[1]/preceding::button[2]</value>
-      <webElementGuid>94ed54c8-e1f6-4945-b093-bfc34a3950c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,21 +120,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SST'])[1]/following::button[1]</value>
       <webElementGuid>731b5fd2-3df8-42c3-9837-22a4f5a50416</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select maintenance workscope'])[1]/following::button[1]</value>
-      <webElementGuid>889b464b-34fd-4a0c-873e-e9b877ce2bab</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/div/button</value>
-      <webElementGuid>45dc5564-9a72-4cce-9cbf-a009fb768efd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
