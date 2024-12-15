@@ -6,12 +6,12 @@
    <elementGuidId>7662f5eb-b070-4119-a682-2f7e0fe1da22</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary.m-1.ng-star-inserted</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[9]</value>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-primary.m-1.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>07aca739-1bf4-488c-a224-0bf68fb5c8c6</webElementGuid>
+      <webElementGuid>1b2c7f3e-f53a-48dc-8481-a2dfeca255c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6ed5d32-e5c7-4f2e-9fab-13ad9682e799</webElementGuid>
+      <webElementGuid>4a0ca7cb-901a-4634-b558-d1f9bde7cff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-primary m-1 ng-star-inserted</value>
-      <webElementGuid>17949de6-8a61-406e-943d-b75b3305dd23</webElementGuid>
+      <webElementGuid>3b3a07db-c76a-4b1c-84fa-5fb271b8571d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Start </value>
-      <webElementGuid>72a93cdb-8e1c-40a5-b6f4-c6559e61a279</webElementGuid>
+      <webElementGuid>9f04efdf-c8ef-4b60-b839-5ee34b84a028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/app-work-stages[1]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/div[1]/button[@class=&quot;btn btn-sm btn-primary m-1 ng-star-inserted&quot;]</value>
-      <webElementGuid>2984e337-8d18-45c3-b263-8257bd1cb6aa</webElementGuid>
+      <webElementGuid>1e2f1d13-9cf5-4bb6-ac6e-111311fb88fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>7c1d3978-57cb-439b-9e06-5bd242ca5bed</webElementGuid>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>cfc534c8-f37d-4426-916e-803f87c018ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,79 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/following::button[1]</value>
-      <webElementGuid>28befc58-28fa-4c62-920e-0819f3664670</webElementGuid>
+      <webElementGuid>2e069ee2-be42-4bff-bcbf-246931970c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::button[1]</value>
+      <webElementGuid>71de9dce-a905-4357-bc59-51adca8f1b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Applicable'])[1]/preceding::button[1]</value>
+      <webElementGuid>9cce10c0-7796-4005-b78b-9a1034f77335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/preceding::button[2]</value>
+      <webElementGuid>56130085-337c-4678-8a42-383c2605af1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
+      <webElementGuid>a13ec188-2d77-4cd1-914a-d0b7a25025bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/div/button</value>
+      <webElementGuid>52ddfb29-0968-4d31-9adb-d8d2aa133853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Start ' or . = ' Start ')]</value>
+      <webElementGuid>d2ce77bc-8666-4881-8d3e-f33f38ee8f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>1414953e-5b0e-4cce-ab92-8262b966fd81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/button</value>
+      <webElementGuid>2b553e49-964c-49e9-b8f0-2dfc696170f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>7c1d3978-57cb-439b-9e06-5bd242ca5bed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,24 +158,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Applicable'])[1]/preceding::button[1]</value>
-      <webElementGuid>9ac75c18-3bbb-4dfa-8ef5-76b30fed2c6b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Defect/Work to be Carried Out'])[1]/preceding::button[2]</value>
       <webElementGuid>435db09e-7cc9-48f9-9c02-7a29946f92b3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
-      <webElementGuid>88dc9f96-bb71-47f3-a261-885a84f3dfd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,14 +168,6 @@
       <type>Main</type>
       <value>//tr[16]/td[4]/div/button</value>
       <webElementGuid>0c15bc11-3d70-48f9-bc34-d1a476061348</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Start ' or . = ' Start ')]</value>
-      <webElementGuid>02b7322c-544e-425f-b644-e58b3a0d25a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,34 +196,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>d34abcf2-5e51-4f44-a15f-7f7d75479ba7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[14]/td[4]/div/button</value>
       <webElementGuid>bc9c50b8-5b1e-4569-94b0-0096b20d9f67</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>1ba8b1ad-4c32-43d2-b0a5-ffcebdc95bad</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[4]/div/button</value>
-      <webElementGuid>c9ca85e1-a4f5-4c31-a837-b038172b6604</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -240,29 +264,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::button[2]</value>
       <webElementGuid>fbd18467-2ba0-4d2f-bff4-9bde2b475f1b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::button[1]</value>
-      <webElementGuid>f7151310-e5a0-4057-b23c-cfc135506367</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/preceding::button[2]</value>
-      <webElementGuid>759a90b6-770d-47aa-8d62-7c9013402c1a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[2]/td[4]/div/button</value>
-      <webElementGuid>bdb926a2-02e4-4b10-9397-45b13fb772c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

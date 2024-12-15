@@ -6,12 +6,12 @@
    <elementGuidId>d132e152-ea45-40e4-9b52-80e51361a888</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.nav-link.active</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.ng-star-inserted > a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d01d70f3-3159-4845-9527-538ec48f0742</webElementGuid>
+      <webElementGuid>72b4d0f7-b9b9-41ea-842d-b2d53ce89b24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>ddd87549-aace-40e1-9f1e-d149d38713a9</webElementGuid>
+      <webElementGuid>953b02ac-8383-4975-bd11-ec6ce1a78a6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +39,23 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>0a1c2128-d1cc-46ee-9df6-421a0ad5ae14</webElementGuid>
+      <webElementGuid>0769d4e7-b56e-4b78-bd36-8d0bd430fe4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link active</value>
-      <webElementGuid>aafefcb5-d7b1-4a5d-8e13-51be0e78a3b5</webElementGuid>
+      <value>nav-link</value>
+      <webElementGuid>147c2df2-2755-44f7-b8c3-3de7d28f08b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-selected</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>b32f7e23-3599-463f-a741-a6984b75100e</webElementGuid>
+      <value>false</value>
+      <webElementGuid>6aa1f974-670d-4f00-b837-3925013a6387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,15 +63,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Work Stages </value>
-      <webElementGuid>69b374d2-3422-4827-a4dc-589257fe93a0</webElementGuid>
+      <webElementGuid>b9d119d0-61b9-4414-8944-436eff014c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item ng-star-inserted active&quot;]/a[@class=&quot;nav-link active&quot;]</value>
-      <webElementGuid>ed8864b0-5bb3-4451-9447-af83755b160f</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>7778385f-891f-4539-81cc-296af2320fc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='']</value>
-      <webElementGuid>ddd5872e-579d-4812-8806-8c8531d80e35</webElementGuid>
+      <webElementGuid>cfa2d396-702a-4160-a2fb-1816d3173268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Work Stages')]</value>
-      <webElementGuid>311818d9-dccf-43e8-838e-c63e6271bce5</webElementGuid>
+      <webElementGuid>0cb3a04e-594f-40eb-9890-b3f70238de23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Reference'])[1]/following::a[1]</value>
-      <webElementGuid>d3f7e9e0-ae7b-4775-a7ca-7b878f8bd4ee</webElementGuid>
+      <webElementGuid>e934e49b-1340-4844-b356-0156245f6411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N. S. N.'])[1]/following::a[1]</value>
-      <webElementGuid>dfa9002d-f8a0-4fbd-9f6d-114503d3a017</webElementGuid>
+      <webElementGuid>daf74297-19b1-4811-8a59-0958c3c8ed67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Defect Rectification Record'])[1]/preceding::a[1]</value>
-      <webElementGuid>5b3c901a-481e-405f-8d75-ee0c2c68fddb</webElementGuid>
+      <webElementGuid>6ef9ef30-126c-4fe8-acfd-694ac9bf4f9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CRR Forms'])[1]/preceding::a[2]</value>
-      <webElementGuid>69835718-ac12-4dcb-abbe-70175ba2aaa6</webElementGuid>
+      <webElementGuid>e84ce26e-3c07-44f6-b08c-36c857f881f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Work Stages']/parent::*</value>
-      <webElementGuid>be77d2fc-ee1c-4ffe-9c91-6243089977ae</webElementGuid>
+      <webElementGuid>b4b6e785-0ca9-4439-b19e-482184ed2b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:void(0);')]</value>
-      <webElementGuid>c674f5a8-69e6-46e5-96f8-7adc6e355554</webElementGuid>
+      <webElementGuid>3cc90f66-832f-466e-8973-baf7735f4b22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tabset/ul/li/a</value>
-      <webElementGuid>319eb6ea-e880-4c19-b8d6-598c9abfd6b2</webElementGuid>
+      <webElementGuid>1582f45f-636e-443d-a4a1-752550dd96bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = ' Work Stages ' or . = ' Work Stages ')]</value>
-      <webElementGuid>525d072d-140e-4e43-b56c-1c4f2b8ad381</webElementGuid>
+      <webElementGuid>6c910036-7987-4b09-8ada-3680667be510</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

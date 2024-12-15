@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8f11d4ae-cdb7-4ac2-8a0e-59794dca349d</webElementGuid>
+      <webElementGuid>27191142-3e38-4087-b4d4-9181aeab790d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>modal-content</value>
-      <webElementGuid>d9a6bfac-50b1-48a2-becf-dadce80561ac</webElementGuid>
+      <webElementGuid>06405988-422f-4e98-b44b-6187d54d6b2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Preliminary Inspection along with defect rectification records associated with it. Defect/Work to be Carried OutRectification/Action TakenRemarks1. ddfgffgfdfdCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 26/Nov/24  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
-      <webElementGuid>191fd7d1-c059-4337-9746-87c864453159</webElementGuid>
+      <value>Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Preliminary Inspection along with defect rectification records associated with it. Defect/Work to be Carried OutRectification/Action TakenRemarks1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 2. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 3. Mengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 4. Data-data seperti nomor referensi salahCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 5.  Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
+      <webElementGuid>bd3210db-58eb-4351-9655-46fa42444792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]</value>
-      <webElementGuid>8a42052f-7c26-4607-a56c-9a690d101851</webElementGuid>
+      <webElementGuid>ba4a8381-56d3-445c-9180-9947bbaf89a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::div[6]</value>
-      <webElementGuid>3e2614cf-e66d-480f-9d80-c16e75b531cb</webElementGuid>
+      <webElementGuid>029ba9fc-e0c1-467f-adad-bf8eeae9c1a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//modal-container/div[2]/div</value>
-      <webElementGuid>70d1cd5b-931f-4532-ac4f-01462506f59a</webElementGuid>
+      <webElementGuid>f5438737-6952-4063-85ef-5c9503b517dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Preliminary Inspection along with defect rectification records associated with it. Defect/Work to be Carried OutRectification/Action TakenRemarks1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 2. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 3. Mengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 4. Data-data seperti nomor referensi salahCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 5.  Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ' or . = 'Confirm and Sign Work Stage Completion Please place auth card on reader to complete work stage Preliminary Inspection along with defect rectification records associated with it. Defect/Work to be Carried OutRectification/Action TakenRemarks1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 2. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 3. Mengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 4. Data-data seperti nomor referensi salahCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24 5.  Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ')]</value>
+      <webElementGuid>897ed0c9-6e94-444c-82df-170cd3ec80e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

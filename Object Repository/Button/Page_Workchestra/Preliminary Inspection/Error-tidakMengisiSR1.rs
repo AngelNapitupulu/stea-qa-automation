@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Error-tidakMengisiSR1</name>
+   <tag></tag>
+   <elementGuidId>dc94bf3e-23db-4a43-9f7e-dd90f0c9c064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c72-2.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5cd7de52-1652-45ab-8a0a-83128d7f7f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c72-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error</value>
+      <webElementGuid>d4b3bc07-8ee8-43cf-b17c-3d0a8904220c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× Error  Workstage Preliminary Inspection reference is required. </value>
+      <webElementGuid>af2810e7-10b7-4ccb-935f-7ae65e1458c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c72-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error&quot;]</value>
+      <webElementGuid>f7c8ece8-a94f-4d0b-a526-f4963f7f6fb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>94529be1-d8d3-4f0e-b526-4176163b36ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::div[6]</value>
+      <webElementGuid>7c0b2a38-30c8-4b3a-93cb-8031206d2339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div</value>
+      <webElementGuid>04f5997b-a391-4ba2-96d8-7cd821e737a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '× Error  Workstage Preliminary Inspection reference is required. ' or . = '× Error  Workstage Preliminary Inspection reference is required. ')]</value>
+      <webElementGuid>7d6cd7cf-f4ef-4387-adf7-2955a8b7cf2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

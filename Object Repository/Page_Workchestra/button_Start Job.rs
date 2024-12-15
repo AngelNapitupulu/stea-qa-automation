@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b726e098-c65b-4abe-9470-0d7672510790</webElementGuid>
+      <webElementGuid>99fbdfaa-0e51-4437-aa38-861a48b09f6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success btn-sm float-right ml-3 ng-star-inserted</value>
-      <webElementGuid>6fdda88f-afa0-4a17-9668-89fa10fd46c4</webElementGuid>
+      <webElementGuid>86fc8272-c34d-4869-b4fe-2b01a0fd93e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Start Job </value>
-      <webElementGuid>75c071d0-5311-4446-a5bf-8f3b1c00cac4</webElementGuid>
+      <webElementGuid>a2c68b5a-f292-406f-bb77-193e533cc7dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col col-sm-12&quot;]/button[@class=&quot;btn btn-success btn-sm float-right ml-3 ng-star-inserted&quot;]</value>
-      <webElementGuid>ab4a9fd4-ddb4-4162-8445-fabb38e2b8a0</webElementGuid>
+      <webElementGuid>04034b95-07e5-4a50-adb1-bc1eea26b442</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/following::button[1]</value>
-      <webElementGuid>189e2963-86ad-41c4-8131-faf6b65d29b9</webElementGuid>
+      <webElementGuid>d23736a9-cc1e-4717-bd52-311faf1c7d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job No. : 7402/1/80000301'])[1]/following::button[1]</value>
+      <webElementGuid>3e2d56ad-bf79-4918-8107-4f2a365e3c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order No.'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca93045d-aea1-4dae-98fe-1db5e7a98614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MWC'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2f32b4f-51e2-417b-947a-41f9e2d78140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Job']/parent::*</value>
+      <webElementGuid>976b3b72-362f-4fea-b457-35b77563c134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>f65d3de6-c304-405a-ae41-3a0285aefbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Start Job ' or . = ' Start Job ')]</value>
+      <webElementGuid>88a889fe-6050-45ac-b4a7-2e60c2c5468f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,46 +112,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job No. : 7403/81/80000159'])[1]/following::button[1]</value>
       <webElementGuid>9fe25e1a-0476-4699-8b02-c7ff339add50</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order No.'])[1]/preceding::button[1]</value>
-      <webElementGuid>159f128c-2739-48e3-a071-c4e38133665d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MWC'])[1]/preceding::button[1]</value>
-      <webElementGuid>6f912056-7c98-4176-8458-54a79d8c0d1c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Start Job']/parent::*</value>
-      <webElementGuid>4a531490-d352-48e4-b4c0-cf82f2d33108</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/button</value>
-      <webElementGuid>ca2ff702-a49c-4095-91c5-4f6524ef2923</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = ' Start Job ' or . = ' Start Job ')]</value>
-      <webElementGuid>0a722892-f5e7-4dd3-b48d-59f36214acd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

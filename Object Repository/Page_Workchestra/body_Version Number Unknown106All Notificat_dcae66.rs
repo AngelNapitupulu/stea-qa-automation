@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Version Number Unknown106All Notificat_dcae66</name>
+   <tag></tag>
+   <elementGuidId>66e17825-dd87-476e-b9c6-ea35ac74d4cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body.app.ng-tns-0-0.header-fixed.sidebar-lg-show.sidebar-fixed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>9c308fb3-263a-47cc-a687-13f247346986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed</value>
+      <webElementGuid>31bf807c-2f91-4135-a2a9-d944ac5098e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>11.2.14</value>
+      <webElementGuid>3ae7e593-6f1c-4f47-8cfc-4ec97be465b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Version Number: Unknown106All NotificationsCard expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24...  View All Notifications EmpNo:80309000WORKCHESTRA (Test)eWorkBagJob OrdersComponent ToolsHomeeWorkbagJob Order Back Assigned TechniciansRoleTechniciansWork Signatory-Release Signatory-NDT Technician-Special Processes Technician-Job No. : 7402/81/80000169Not Started Get Involved As Job Order No.80000169MWC7402MPG81Maintenance Task-Strtmlfn date02/10/22Part DetailsIncoming Part No.1110V0700-7Part DescriptionTURBINE BLADE/VANE COOLING VALVEIncoming Serial No.Test0000000169ManufacturerWilliamsN. S. N.5821-01-203-3501Manual Reference - </value>
+      <webElementGuid>bfdfd5c8-0493-40dc-af92-b6450d31f37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]</value>
+      <webElementGuid>13d06621-582c-4438-965f-1a86203ac072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>62e263c8-17a5-47ad-aded-a5d5abe58a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'Version Number: Unknown106All NotificationsCard expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24...  View All Notifications EmpNo:80309000WORKCHESTRA (Test)eWorkBagJob OrdersComponent ToolsHomeeWorkbagJob Order Back Assigned TechniciansRoleTechniciansWork Signatory-Release Signatory-NDT Technician-Special Processes Technician-Job No. : 7402/81/80000169Not Started Get Involved As Job Order No.80000169MWC7402MPG81Maintenance Task-Strtmlfn date02/10/22Part DetailsIncoming Part No.1110V0700-7Part DescriptionTURBINE BLADE/VANE COOLING VALVEIncoming Serial No.Test0000000169ManufacturerWilliamsN. S. N.5821-01-203-3501Manual Reference - ' or . = 'Version Number: Unknown106All NotificationsCard expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24... Card expiration on: 30/09/202480309000 card is expiring in 3 days 27/09/24...  View All Notifications EmpNo:80309000WORKCHESTRA (Test)eWorkBagJob OrdersComponent ToolsHomeeWorkbagJob Order Back Assigned TechniciansRoleTechniciansWork Signatory-Release Signatory-NDT Technician-Special Processes Technician-Job No. : 7402/81/80000169Not Started Get Involved As Job Order No.80000169MWC7402MPG81Maintenance Task-Strtmlfn date02/10/22Part DetailsIncoming Part No.1110V0700-7Part DescriptionTURBINE BLADE/VANE COOLING VALVEIncoming Serial No.Test0000000169ManufacturerWilliamsN. S. N.5821-01-203-3501Manual Reference - ')]</value>
+      <webElementGuid>c520175a-d8fe-44fc-b3d0-59a34fc92180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

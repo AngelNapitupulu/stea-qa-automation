@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SST'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>84800129-a095-460b-b5fc-bb7749ee8206</webElementGuid>
+      <webElementGuid>432d8962-5842-479d-bbee-b38e0e602134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>click-to-edit-edit-button click-to-edit-button-text btn-secondary ng-star-inserted</value>
-      <webElementGuid>85c2ce14-ed01-485a-bc4d-bb5b230e08fa</webElementGuid>
+      <webElementGuid>c2ae6d9d-7217-46b3-97b6-36dfcdb98463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>7aabb487-8733-41c8-b95f-3a06a7e0de90</webElementGuid>
+      <webElementGuid>5c7ef8ca-9b7e-40a1-b9ed-24a4cec2e30f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-4 mb-3 required&quot;]/app-click-to-edit-selector[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/span[1]/button[@class=&quot;click-to-edit-edit-button click-to-edit-button-text btn-secondary ng-star-inserted&quot;]</value>
-      <webElementGuid>656d57e2-056d-4e16-88ab-b620e757a076</webElementGuid>
+      <webElementGuid>0e3c6316-7064-48b0-b248-db40d79cfce0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::button[1]</value>
-      <webElementGuid>5ea20a5f-9342-4779-b7a4-d3d48fae3233</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SST'])[1]/following::button[1]</value>
+      <webElementGuid>83ef281b-11b0-47f6-946a-2b7c3624c290</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Task'])[1]/following::button[1]</value>
-      <webElementGuid>a25b79a5-136d-40a9-9cbd-98fde7c5eac1</webElementGuid>
+      <webElementGuid>2009f812-fec1-46f5-88ff-3d2caa45d365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial CRR Nos.'])[1]/preceding::button[1]</value>
-      <webElementGuid>d7fd919e-aa93-4c30-98e5-8f8ea0cbba17</webElementGuid>
+      <webElementGuid>dd6d1caf-3584-4fbe-b8c1-194e2af3be7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
-      <webElementGuid>65237c06-7fdd-4208-b256-331b3147cc52</webElementGuid>
+      <webElementGuid>1f29e59d-ab27-4d61-b1f4-defd5ec03565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>cee313e9-a9f9-43b8-957d-254d0b066f51</webElementGuid>
+      <webElementGuid>2eed72ff-4d16-4a33-95ba-a8aab0c316e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::button[1]</value>
+      <webElementGuid>6adf36f5-a106-4327-8d04-984a3a5dae9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Submit Hard Copy Crr  PDF Job Order No._8beeea</name>
+   <tag></tag>
+   <elementGuidId>e2b29e39-9db0-4ab3-839b-75a55b6e1f09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Started'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.p-2.pl-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f96d6300-400e-4e22-87f2-19c37d60c51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body p-2 pl-4</value>
+      <webElementGuid>3e099d57-d664-426d-b8fc-c29379c01594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Submit Hard Copy Crr  PDF Job Order No.80000301MWC7402MPG1Work Request CLK Maintenance Task-Strtmlfn date01/10/22Part DetailsIncoming Part No.332A31-0001-09Part DescriptionMAIN ROTOR HEADIncoming Serial No.Test0000000301ManufacturerRolls-RoyceN. S. N.5821-01-203-3483Manual Reference - Job Details Work Stages Defect Rectification RecordCRR FormsCompliance DeclarationParts Replacement RecordTool TaggingAttachmentsRelated JobsWork StageReferenceStatusAction1. Preliminary Inspection - In Progress  Set reference  Add Defect Rectification  Complete  Cancel 2. Hidden Damage Inspection - Not Started  Start  Not Applicable 3. Pre-disassembly Testing - Not Started  Start  Not Applicable 4. Disassembly - Not Started  Start  Not Applicable 5. Cleaning - Not Started  Start  Not Applicable 6. Inspection/Check - Not Started  Start  Not Applicable 7. Repair - Not Started  Start  Not Applicable 8. Replacement - Not Started  Start  Not Applicable 9. Partial Sub-contract - Not Started  Start  Not Applicable 10. Assembly - Not Started  Start  Not Applicable 11. Painting - Not Started  Start  Not Applicable 12. Testing - Not Started  Start  Not Applicable 13. Final Inspection - Not Started  Start  Not Applicable 14. Duplicate Check - Not Started  Start  Not Applicable 15. Independent Check - Not Started  Start  Not Applicable 16. Loose Article Check - Not Started  Start  Not Applicable  Add Defect/Work to be Carried OutRectification/Action TakenRemarksAction 1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  Edit  Complete  Discard CRR Form TypeForm NameCrr No.Issue No.StatusAction No CRR form added to this job.  Certified that the work recorded in this component repair/overhaul record except as otherwise specified was carried out/accomplished in accordance with the requirements of the following authorities/customers and approved for return to service.
+ EASA (EASA.145.0139)  CAA China (F06500251)  CAA Malaysia (FAMO/2017/72)  CAA Nepal (AMO/VAL/12/2005)  CAA Philippines (134-F)  CAA Singapore (AWI/059)  CAA Thailand (36/2529)  CAA Vietnam (VN-232NN/CAAV)  DGCA, India (5-2460/2016-AI(2))  CAA Maldives (MV.145.049)  DGCA, Indonesia (145F-063)  FAA, USA (FW4Y195M)  DCA, Laos (AMO/A-056/21)  PACAF, Pacific Air Forces, USAF  US Navy Requirements  Applicable Manufacturer's Manual  Applicable Customer’s Requirements  Republic of Singapore Air Force Logistics Orders  SSCA Cambodia (AMO/17/17)  Pakistan PCAA Pakistan (PCAA.145.173)  Declared by EmpNo:80309000 on 12/Dec/24  Redeclare Compliance  Refresh  Declare Materials  Last Refresh on: EmpNo:80309000 12/Dec/24 MaterialMatDescSLIssQtyFinalQtyBatchNo Material2 Material DescriptionSL60049 Material6 Material DescriptionSL90048 Material7 Material DescriptionSL170061FirstPrevious1NextLast Tag Tools  Declare Tool Tagging LocationRef NoSerial NoCal. Report NoCalibrationEquipmentPart NoPart Description Actions  No tools tagged to this job.  Attach File  No attachments found 80000301 - MAIN ROTOR HEAD</value>
+      <webElementGuid>50c9ee6e-38d3-4a58-8787-3c82e20a5fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]</value>
+      <webElementGuid>b7bfe216-0821-4342-931a-4b0c29e02df1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Started'])[1]/following::div[1]</value>
+      <webElementGuid>38e44d39-a04b-4b94-a081-210a74191004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job No. : 7402/1/80000301'])[1]/following::div[1]</value>
+      <webElementGuid>cdfef856-774f-4b40-b439-61a7881f378f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//wc-job-detail/div/div[2]/div/div[2]</value>
+      <webElementGuid>86439eed-550e-4644-9c8a-9f2100bef08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Submit Hard Copy Crr  PDF Job Order No.80000301MWC7402MPG1Work Request CLK Maintenance Task-Strtmlfn date01/10/22Part DetailsIncoming Part No.332A31-0001-09Part DescriptionMAIN ROTOR HEADIncoming Serial No.Test0000000301ManufacturerRolls-RoyceN. S. N.5821-01-203-3483Manual Reference - Job Details Work Stages Defect Rectification RecordCRR FormsCompliance DeclarationParts Replacement RecordTool TaggingAttachmentsRelated JobsWork StageReferenceStatusAction1. Preliminary Inspection - In Progress  Set reference  Add Defect Rectification  Complete  Cancel 2. Hidden Damage Inspection - Not Started  Start  Not Applicable 3. Pre-disassembly Testing - Not Started  Start  Not Applicable 4. Disassembly - Not Started  Start  Not Applicable 5. Cleaning - Not Started  Start  Not Applicable 6. Inspection/Check - Not Started  Start  Not Applicable 7. Repair - Not Started  Start  Not Applicable 8. Replacement - Not Started  Start  Not Applicable 9. Partial Sub-contract - Not Started  Start  Not Applicable 10. Assembly - Not Started  Start  Not Applicable 11. Painting - Not Started  Start  Not Applicable 12. Testing - Not Started  Start  Not Applicable 13. Final Inspection - Not Started  Start  Not Applicable 14. Duplicate Check - Not Started  Start  Not Applicable 15. Independent Check - Not Started  Start  Not Applicable 16. Loose Article Check - Not Started  Start  Not Applicable  Add Defect/Work to be Carried OutRectification/Action TakenRemarksAction 1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  Edit  Complete  Discard CRR Form TypeForm NameCrr No.Issue No.StatusAction No CRR form added to this job.  Certified that the work recorded in this component repair/overhaul record except as otherwise specified was carried out/accomplished in accordance with the requirements of the following authorities/customers and approved for return to service.
+ EASA (EASA.145.0139)  CAA China (F06500251)  CAA Malaysia (FAMO/2017/72)  CAA Nepal (AMO/VAL/12/2005)  CAA Philippines (134-F)  CAA Singapore (AWI/059)  CAA Thailand (36/2529)  CAA Vietnam (VN-232NN/CAAV)  DGCA, India (5-2460/2016-AI(2))  CAA Maldives (MV.145.049)  DGCA, Indonesia (145F-063)  FAA, USA (FW4Y195M)  DCA, Laos (AMO/A-056/21)  PACAF, Pacific Air Forces, USAF  US Navy Requirements  Applicable Manufacturer&quot; , &quot;'&quot; , &quot;s Manual  Applicable Customer’s Requirements  Republic of Singapore Air Force Logistics Orders  SSCA Cambodia (AMO/17/17)  Pakistan PCAA Pakistan (PCAA.145.173)  Declared by EmpNo:80309000 on 12/Dec/24  Redeclare Compliance  Refresh  Declare Materials  Last Refresh on: EmpNo:80309000 12/Dec/24 MaterialMatDescSLIssQtyFinalQtyBatchNo Material2 Material DescriptionSL60049 Material6 Material DescriptionSL90048 Material7 Material DescriptionSL170061FirstPrevious1NextLast Tag Tools  Declare Tool Tagging LocationRef NoSerial NoCal. Report NoCalibrationEquipmentPart NoPart Description Actions  No tools tagged to this job.  Attach File  No attachments found 80000301 - MAIN ROTOR HEAD&quot;) or . = concat(&quot; Submit Hard Copy Crr  PDF Job Order No.80000301MWC7402MPG1Work Request CLK Maintenance Task-Strtmlfn date01/10/22Part DetailsIncoming Part No.332A31-0001-09Part DescriptionMAIN ROTOR HEADIncoming Serial No.Test0000000301ManufacturerRolls-RoyceN. S. N.5821-01-203-3483Manual Reference - Job Details Work Stages Defect Rectification RecordCRR FormsCompliance DeclarationParts Replacement RecordTool TaggingAttachmentsRelated JobsWork StageReferenceStatusAction1. Preliminary Inspection - In Progress  Set reference  Add Defect Rectification  Complete  Cancel 2. Hidden Damage Inspection - Not Started  Start  Not Applicable 3. Pre-disassembly Testing - Not Started  Start  Not Applicable 4. Disassembly - Not Started  Start  Not Applicable 5. Cleaning - Not Started  Start  Not Applicable 6. Inspection/Check - Not Started  Start  Not Applicable 7. Repair - Not Started  Start  Not Applicable 8. Replacement - Not Started  Start  Not Applicable 9. Partial Sub-contract - Not Started  Start  Not Applicable 10. Assembly - Not Started  Start  Not Applicable 11. Painting - Not Started  Start  Not Applicable 12. Testing - Not Started  Start  Not Applicable 13. Final Inspection - Not Started  Start  Not Applicable 14. Duplicate Check - Not Started  Start  Not Applicable 15. Independent Check - Not Started  Start  Not Applicable 16. Loose Article Check - Not Started  Start  Not Applicable  Add Defect/Work to be Carried OutRectification/Action TakenRemarksAction 1. Data-data seperti nomor referensi salahMengisi ulang no. referensi dengan melihat data sebenernyaCreated from work stage Preliminary Inspection.Created by EmpNo:80309000 on 12/Dec/24  Edit  Complete  Discard CRR Form TypeForm NameCrr No.Issue No.StatusAction No CRR form added to this job.  Certified that the work recorded in this component repair/overhaul record except as otherwise specified was carried out/accomplished in accordance with the requirements of the following authorities/customers and approved for return to service.
+ EASA (EASA.145.0139)  CAA China (F06500251)  CAA Malaysia (FAMO/2017/72)  CAA Nepal (AMO/VAL/12/2005)  CAA Philippines (134-F)  CAA Singapore (AWI/059)  CAA Thailand (36/2529)  CAA Vietnam (VN-232NN/CAAV)  DGCA, India (5-2460/2016-AI(2))  CAA Maldives (MV.145.049)  DGCA, Indonesia (145F-063)  FAA, USA (FW4Y195M)  DCA, Laos (AMO/A-056/21)  PACAF, Pacific Air Forces, USAF  US Navy Requirements  Applicable Manufacturer&quot; , &quot;'&quot; , &quot;s Manual  Applicable Customer’s Requirements  Republic of Singapore Air Force Logistics Orders  SSCA Cambodia (AMO/17/17)  Pakistan PCAA Pakistan (PCAA.145.173)  Declared by EmpNo:80309000 on 12/Dec/24  Redeclare Compliance  Refresh  Declare Materials  Last Refresh on: EmpNo:80309000 12/Dec/24 MaterialMatDescSLIssQtyFinalQtyBatchNo Material2 Material DescriptionSL60049 Material6 Material DescriptionSL90048 Material7 Material DescriptionSL170061FirstPrevious1NextLast Tag Tools  Declare Tool Tagging LocationRef NoSerial NoCal. Report NoCalibrationEquipmentPart NoPart Description Actions  No tools tagged to this job.  Attach File  No attachments found 80000301 - MAIN ROTOR HEAD&quot;))]</value>
+      <webElementGuid>0b4752be-1287-4f94-8818-c4c4cea9cc34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Submit Hard Copy Crr  PDF Job Order No.80000301MWC7402MPG1Work Request CLK Maintenance Task-Strtmlfn date01/10/22Part DetailsIncoming Part No.332A31-0001-09Part DescriptionMAIN ROTOR HEADIncoming Serial No.Test0000000301ManufacturerRolls-RoyceN. S. N.5821-01-203-3483Manual Reference - Job Details Work Stages Defect Rectification RecordCRR FormsCompliance DeclarationParts Replacement RecordTool TaggingAttachmentsRelated JobsWork StageReferenceStatusAction1. Preliminary Inspection 3834000-45 In Progress  Set reference  Add Defect Rectification  Complete  Cancel 2. Hidden Damage Inspection - Not Started  Start  Not Applicable 3. Pre-disassembly Testing - Not Started  Start  Not Applicable 4. Disassembly - Not Started  Start  Not Applicable 5. Cleaning - Not Started  Start  Not Applicable 6. Inspection/Check - Not Started  Start  Not Applicable 7. Repair - Not Started  Start  Not Applicable 8. Replacement - Not Started  Start  Not Applicable 9. Partial Sub-contract - Not Started  Start  Not Applicable 10. Assembly - Not Started  Start  Not Applicable 11. Painting - Not Started  Start  Not Applicable 12. Testing - Not Started  Start  Not Applicable 13. Final Inspection - Not Started  Start  Not Applicable 14. Duplicate Check - Not Started  Start  Not Applicable 15. Independent Check - Not Started  Start  Not Applicable 16. Loose Article Check - Not Started  Start  Not Applicable  Add Defect/Work to be Carried OutRectification/Action TakenRemarksAction No defect rectification record has been logged yet. CRR Form TypeForm NameCrr No.Issue No.StatusAction No CRR form added to this job.  Certified that the work recorded in this component repair/overhaul record except as otherwise specified was carried out/accomplished in accordance with the requirements of the following authorities/customers and approved for return to service.
+ EASA (EASA.145.0139)  CAA China (F06500251)  CAA Malaysia (FAMO/2017/72)  CAA Nepal (AMO/VAL/12/2005)  CAA Philippines (134-F)  CAA Singapore (AWI/059)  CAA Thailand (36/2529)  CAA Vietnam (VN-232NN/CAAV)  DGCA, India (5-2460/2016-AI(2))  CAA Maldives (MV.145.049)  DGCA, Indonesia (145F-063)  FAA, USA (FW4Y195M)  DCA, Laos (AMO/A-056/21)  PACAF, Pacific Air Forces, USAF  US Navy Requirements  Applicable Manufacturer&quot; , &quot;'&quot; , &quot;s Manual  Applicable Customer’s Requirements  Republic of Singapore Air Force Logistics Orders  SSCA Cambodia (AMO/17/17)  Pakistan PCAA Pakistan (PCAA.145.173)  Declared by EmpNo:80309000 on 12/Dec/24  Redeclare Compliance  Refresh  Declare Materials  Last Refresh on: EmpNo:80309000 12/Dec/24 MaterialMatDescSLIssQtyFinalQtyBatchNo Material2 Material DescriptionSL60049 Material6 Material DescriptionSL90048 Material7 Material DescriptionSL170061FirstPrevious1NextLast Tag Tools  Declare Tool Tagging LocationRef NoSerial NoCal. Report NoCalibrationEquipmentPart NoPart Description Actions  No tools tagged to this job.  Attach File  No attachments found 80000301 - MAIN ROTOR HEAD&quot;) or . = concat(&quot; Submit Hard Copy Crr  PDF Job Order No.80000301MWC7402MPG1Work Request CLK Maintenance Task-Strtmlfn date01/10/22Part DetailsIncoming Part No.332A31-0001-09Part DescriptionMAIN ROTOR HEADIncoming Serial No.Test0000000301ManufacturerRolls-RoyceN. S. N.5821-01-203-3483Manual Reference - Job Details Work Stages Defect Rectification RecordCRR FormsCompliance DeclarationParts Replacement RecordTool TaggingAttachmentsRelated JobsWork StageReferenceStatusAction1. Preliminary Inspection 3834000-45 In Progress  Set reference  Add Defect Rectification  Complete  Cancel 2. Hidden Damage Inspection - Not Started  Start  Not Applicable 3. Pre-disassembly Testing - Not Started  Start  Not Applicable 4. Disassembly - Not Started  Start  Not Applicable 5. Cleaning - Not Started  Start  Not Applicable 6. Inspection/Check - Not Started  Start  Not Applicable 7. Repair - Not Started  Start  Not Applicable 8. Replacement - Not Started  Start  Not Applicable 9. Partial Sub-contract - Not Started  Start  Not Applicable 10. Assembly - Not Started  Start  Not Applicable 11. Painting - Not Started  Start  Not Applicable 12. Testing - Not Started  Start  Not Applicable 13. Final Inspection - Not Started  Start  Not Applicable 14. Duplicate Check - Not Started  Start  Not Applicable 15. Independent Check - Not Started  Start  Not Applicable 16. Loose Article Check - Not Started  Start  Not Applicable  Add Defect/Work to be Carried OutRectification/Action TakenRemarksAction No defect rectification record has been logged yet. CRR Form TypeForm NameCrr No.Issue No.StatusAction No CRR form added to this job.  Certified that the work recorded in this component repair/overhaul record except as otherwise specified was carried out/accomplished in accordance with the requirements of the following authorities/customers and approved for return to service.
+ EASA (EASA.145.0139)  CAA China (F06500251)  CAA Malaysia (FAMO/2017/72)  CAA Nepal (AMO/VAL/12/2005)  CAA Philippines (134-F)  CAA Singapore (AWI/059)  CAA Thailand (36/2529)  CAA Vietnam (VN-232NN/CAAV)  DGCA, India (5-2460/2016-AI(2))  CAA Maldives (MV.145.049)  DGCA, Indonesia (145F-063)  FAA, USA (FW4Y195M)  DCA, Laos (AMO/A-056/21)  PACAF, Pacific Air Forces, USAF  US Navy Requirements  Applicable Manufacturer&quot; , &quot;'&quot; , &quot;s Manual  Applicable Customer’s Requirements  Republic of Singapore Air Force Logistics Orders  SSCA Cambodia (AMO/17/17)  Pakistan PCAA Pakistan (PCAA.145.173)  Declared by EmpNo:80309000 on 12/Dec/24  Redeclare Compliance  Refresh  Declare Materials  Last Refresh on: EmpNo:80309000 12/Dec/24 MaterialMatDescSLIssQtyFinalQtyBatchNo Material2 Material DescriptionSL60049 Material6 Material DescriptionSL90048 Material7 Material DescriptionSL170061FirstPrevious1NextLast Tag Tools  Declare Tool Tagging LocationRef NoSerial NoCal. Report NoCalibrationEquipmentPart NoPart Description Actions  No tools tagged to this job.  Attach File  No attachments found 80000301 - MAIN ROTOR HEAD&quot;))]</value>
+      <webElementGuid>f5be420c-d014-499c-b0a6-bd1a0efd50e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

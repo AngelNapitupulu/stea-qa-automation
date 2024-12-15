@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.d-flex.flex-column.align-items-center.justify-content-center</value>
+         <value>div.container-fluid</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7b622e5a-6dca-47d0-af37-e3fb0ffad93a</webElementGuid>
+      <webElementGuid>835274c4-5c46-46ba-b40b-27e55083bf52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>d-flex flex-column align-items-center justify-content-center</value>
-      <webElementGuid>203cae3c-a900-4615-b11c-267f98ca984c</webElementGuid>
+      <value>container-fluid</value>
+      <webElementGuid>9ec237ed-880b-44d0-98e8-7a4011d9a7a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,39 +39,39 @@
       <name>text</name>
       <type>Main</type>
       <value>WelcometoWorkchestra</value>
-      <webElementGuid>2cb2baf2-eb22-4346-be37-52e11fa472ca</webElementGuid>
+      <webElementGuid>7e1a3126-f5be-46d1-92dd-f77bd9a6ec90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;d-flex flex-column align-items-center justify-content-center&quot;]</value>
-      <webElementGuid>7976c3fa-9de8-4f45-9a5c-29b255f157b5</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]</value>
+      <webElementGuid>e36b6703-b5d3-4098-be6b-25bdc2b1ca66</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
-      <webElementGuid>ea893fbf-4a02-41b1-8d2c-fb0fad4f083f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
+      <webElementGuid>2758b995-3987-4905-8320-3fa709810b3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Tools'])[1]/following::div[7]</value>
-      <webElementGuid>c2eab7b9-80cb-435b-be7e-3f9ec05e6ac8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Tools'])[1]/following::div[5]</value>
+      <webElementGuid>b68106df-6166-4fa3-bbc2-1bfb3792a8ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ng-component/div/div</value>
-      <webElementGuid>8ddc5828-0e32-4371-bbd9-11446a38153c</webElementGuid>
+      <value>//main/div</value>
+      <webElementGuid>3f92dd1a-eae0-460f-bac4-e68468538e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'WelcometoWorkchestra' or . = 'WelcometoWorkchestra')]</value>
-      <webElementGuid>333d3510-1911-4ceb-b770-19724cdf6371</webElementGuid>
+      <webElementGuid>8d6ba645-aa42-449a-af82-7fbe67794a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
+      <webElementGuid>1899194c-5fe5-4337-b3e2-3f6935068002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Tools'])[1]/following::div[7]</value>
+      <webElementGuid>c7e27c11-68e8-48fc-9bba-13d2cb56c8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-component/div/div</value>
+      <webElementGuid>c56e6794-8371-4644-b311-1a6d9d2ec262</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

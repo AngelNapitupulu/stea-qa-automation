@@ -6,12 +6,12 @@
    <elementGuidId>5a180822-2982-4b3b-9fc8-f1f4c1641452</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>select.form-control</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>4077a6b9-0c31-489e-86f9-cac14d26d078</webElementGuid>
+      <webElementGuid>d17b39ce-556f-438b-a568-0ceac1b145ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>hard-copy-selector</value>
-      <webElementGuid>c3a47a18-8562-4a2d-abbc-1a98fcc5e519</webElementGuid>
+      <webElementGuid>4645aea9-1152-4627-aa99-f3964170ff4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>bc5689e1-a11d-4e7d-ba23-284e48343562</webElementGuid>
+      <webElementGuid>70e33433-9225-4513-96b2-35761c5799ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others </value>
-      <webElementGuid>072ec478-c6d2-4517-9936-c6ac86813306</webElementGuid>
+      <webElementGuid>adbb895e-d745-4c80-95e3-7faef83578c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col&quot;]/select[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>904e859e-b1f7-40c8-a68d-80d9b511d2c3</webElementGuid>
+      <webElementGuid>5565f910-4395-428c-96b6-9ccc5de193ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
-      <webElementGuid>828e1fad-ff03-4bb1-aff0-1c7a2c9fef87</webElementGuid>
+      <webElementGuid>8a50770a-4602-45da-9931-189452d7e0f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::select[1]</value>
-      <webElementGuid>d9444d73-d9fd-4085-8c02-44e4c9e75de8</webElementGuid>
+      <webElementGuid>ff535245-77d5-41ec-9e52-29e10bfaa5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
-      <webElementGuid>a08f6b41-157c-4d23-94b1-9c616546af34</webElementGuid>
+      <webElementGuid>07f9d2a5-6c43-4512-863d-3a3ac8dec7d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>c83a8756-45be-40e0-a61e-a01c9848b826</webElementGuid>
+      <webElementGuid>06eb0de7-331f-416e-8381-21f28030b8ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[(text() = ' Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others ' or . = ' Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others ')]</value>
-      <webElementGuid>cea2b44e-62fa-4597-b29d-6a28c821fe5d</webElementGuid>
+      <webElementGuid>fd06138d-498b-40f6-b462-48d0c398e755</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

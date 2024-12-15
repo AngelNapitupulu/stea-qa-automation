@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assigned TechniciansRoleTechniciansWork_04a03e</name>
+   <tag></tag>
+   <elementGuidId>940645b3-82c8-4616-8843-c99c111dce93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assigned-roles-accordion']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5235ec95-db6d-4093-8d50-f76eec007887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>949443e8-8499-4ce7-9d8a-006386a882ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory- EmpNo:80309001 NDT Technician-Special Processes Technician-</value>
+      <webElementGuid>2569749e-f02b-48bb-a8e1-73af53833ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assigned-roles-accordion&quot;)/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>29ced969-524c-409c-a604-3d0a3c31ae4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assigned-roles-accordion']/div</value>
+      <webElementGuid>b368071a-15aa-49b0-8ddf-d820947646f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[3]</value>
+      <webElementGuid>899c9551-9a35-4134-8508-c085e5a4363b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Order'])[1]/following::div[5]</value>
+      <webElementGuid>65ffcc3f-b4bb-42a4-97cb-f17f47baa22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-job-assigned-roles/div/div</value>
+      <webElementGuid>ff2402f1-8390-49cd-a700-e914ff4574f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory- EmpNo:80309001 NDT Technician-Special Processes Technician-' or . = 'Assigned TechniciansRoleTechniciansWork Signatory- EmpNo:80309000 Release Signatory- EmpNo:80309001 NDT Technician-Special Processes Technician-')]</value>
+      <webElementGuid>a370d33c-d7a0-4ba4-8f88-6cdd0b7014a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

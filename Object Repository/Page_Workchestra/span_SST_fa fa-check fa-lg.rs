@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a6b2344a-b909-490e-b738-f6422b7527fe</webElementGuid>
+      <webElementGuid>18db843a-906c-4179-8d5b-4e84a40602e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-check fa-lg</value>
-      <webElementGuid>0a42b935-dfb4-4716-8ecf-0c9f3f13571c</webElementGuid>
+      <webElementGuid>b8f80bd7-5eb8-4fa0-a3c5-65d2096791a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-4 mb-3 required&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;click-to-edit-input-button button btn-secondary&quot;]/span[@class=&quot;fa fa-check fa-lg&quot;]</value>
-      <webElementGuid>a337047d-3fdd-42ca-bb0d-c3e24061f973</webElementGuid>
+      <webElementGuid>e256a859-4f34-4881-a499-7c7c1a2d1242</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,6 +47,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button/span</value>
-      <webElementGuid>4358f56b-34cd-42e1-80b4-f0c4ab339791</webElementGuid>
+      <webElementGuid>001029d5-2607-446c-b613-4a83f95aab96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

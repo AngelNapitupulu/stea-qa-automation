@@ -6,12 +6,12 @@
    <elementGuidId>829abef9-f329-45e0-904b-4f2f03eccc16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.form-control.ng-untouched.ng-pristine.ng-valid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;text&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a755c2ee-5b5f-4976-a181-0749abf0aa1c</webElementGuid>
+      <webElementGuid>0d91f996-c501-4428-99c7-383a2d1b8a8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>71f05d59-f429-48d6-9333-8eb671e439d4</webElementGuid>
+      <webElementGuid>485f7f2d-1908-4c48-bcb1-a09a8c11bd85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col typeahead-input-wrapper&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>a404a9bf-30cf-4b9c-b0fb-addd6d613bcb</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-4 mb-3 required&quot;]/ng-select[@class=&quot;ng-select ng-select-single ng-select-searchable ng-select-clearable ng-untouched ng-pristine ng-valid ng-star-inserted ng-select-focused ng-select-opened ng-select-top&quot;]/div[@class=&quot;ng-select-container&quot;]/div[@class=&quot;ng-value-container&quot;]/div[@class=&quot;ng-input&quot;]/input[1]</value>
+      <webElementGuid>12245007-1e58-4583-93fa-2a88d1b65f7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>cdd8a29b-7b38-49ae-86e5-dc72e2c56f76</webElementGuid>
+      <value>a993e4c4e781</value>
+      <webElementGuid>0cbcad9d-9c17-492f-8eda-a9e08d3e3170</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>86228a9a-0f4f-4ab4-bc3b-f9a874f03b69</webElementGuid>
+      <value>form-control ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>a16e5008-62e8-4b29-a8fe-683d6b5f0f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>334d7bd6-01c7-4d65-a7dd-bad074f6c5a6</webElementGuid>
+      <webElementGuid>7653bee9-1398-48c9-8c16-aee7c8d6a159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>ce484a03-a858-4084-98bc-da0f2d27fe23</webElementGuid>
+      <webElementGuid>91f40163-a54c-400f-a45c-368fda3129e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cdcd2606-9e1e-48a1-9d83-7c69d80b723c</webElementGuid>
+      <webElementGuid>0b3e42a1-74ac-4823-aa13-a0dc4278b3bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,23 +87,23 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>fb990d02-9983-48bd-9d76-399cb33b0200</webElementGuid>
+      <webElementGuid>2a202ce0-2c15-4731-9c2a-1d5e8207e3ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>ac7c1ea7cef1-0</value>
-      <webElementGuid>16091308-2db5-439e-a574-1746d79b0dbb</webElementGuid>
+      <value>a993e4c4e781-0</value>
+      <webElementGuid>902db383-20a7-4761-a445-e9e4722a2b5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>ac7c1ea7cef1</value>
-      <webElementGuid>b6b56eaf-2c6f-4ff4-9e89-06c109042197</webElementGuid>
+      <value>a993e4c4e781</value>
+      <webElementGuid>297b081a-b4eb-41d5-97d2-51102702bb12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,15 +111,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>f574996c-c616-49fc-9d3f-d9b751ad39ab</webElementGuid>
+      <webElementGuid>693e07ab-322b-4b17-84b2-f29629ce8ac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>145e07b5-094a-4c5f-9609-4ce3df637355</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>c38ab8a4-197f-4034-a0e9-814f70ee34a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>e47c0eb2-b9c2-4ef8-b964-5a8aa5250c6c</webElementGuid>
+      <webElementGuid>2a2cc379-5ce0-429a-8a42-e9c1a4fa2591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>845b633e-518d-4589-aef4-3bc197b5089e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,14 +176,6 @@
       <type>Main</type>
       <value>//div[2]/div/input</value>
       <webElementGuid>757641db-cada-4cbb-b74c-c48f214ef352</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>68dfe103-8dd1-48ca-8997-8418110ae266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

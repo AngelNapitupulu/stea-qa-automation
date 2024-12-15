@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#adfaa2137200-0</value>
+         <value>#a993e4c4e781-0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='adfaa2137200-0']</value>
+         <value>//div[@id='a993e4c4e781-0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9ee30375-6900-4160-92a0-51111a6db51f</webElementGuid>
+      <webElementGuid>0c78fef9-bf7c-4856-9c49-6372f56d5b69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-option ng-option-marked ng-star-inserted</value>
-      <webElementGuid>bf78e4fd-0c38-4a7f-9b4e-09189875201a</webElementGuid>
+      <value>ng-option ng-star-inserted ng-option-marked</value>
+      <webElementGuid>d767eaa4-987c-48f6-8f7f-bfcaf372e134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>3761fa97-aedc-4626-9cd7-c820d8029159</webElementGuid>
+      <webElementGuid>11f30ed7-0ecd-4027-b8ea-764ea5870147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a5cfbb3e-b78e-4dec-8992-4fbffaaca9bb</webElementGuid>
+      <webElementGuid>1a72bb08-3123-43f1-aa8f-d86e1ef8fec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>adfaa2137200-0</value>
-      <webElementGuid>9d6f9576-2d31-45fe-993f-6fba264232a2</webElementGuid>
+      <value>a993e4c4e781-0</value>
+      <webElementGuid>48c4b0f4-6c21-4ba8-8600-c657404db268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,18 +63,90 @@
       <name>text</name>
       <type>Main</type>
       <value> SST </value>
-      <webElementGuid>0db5e518-2b48-4a0c-b10b-ff642528803a</webElementGuid>
+      <webElementGuid>dfbd98fb-cbb9-4eeb-afb5-3d162ee50f34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;adfaa2137200-0&quot;)</value>
-      <webElementGuid>daa982f1-5f6d-424b-9df8-d64966729543</webElementGuid>
+      <value>id(&quot;a993e4c4e781-0&quot;)</value>
+      <webElementGuid>a2087e4b-27a5-4a32-a80a-ad0ca32c9b70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='a993e4c4e781-0']</value>
+      <webElementGuid>e2532408-d500-40ec-9457-4ff3f90b702c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel[@id='a993e4c4e781']/div/div[2]/div</value>
+      <webElementGuid>09616f99-fd01-40a8-ae27-7f7fdf5c6c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select maintenance workscope'])[1]/following::div[5]</value>
+      <webElementGuid>afa72b36-9995-4488-9d7c-ae406ceea8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Task'])[1]/following::div[8]</value>
+      <webElementGuid>87021a70-1905-42e2-b5d1-41a577179d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REP'])[1]/preceding::div[1]</value>
+      <webElementGuid>7ff85945-6033-412d-8d69-436f1017fc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O/H'])[1]/preceding::div[2]</value>
+      <webElementGuid>d69aaa9d-19df-4b1f-a5fa-e2e322aae2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SST']/parent::*</value>
+      <webElementGuid>426ffada-57ff-49ef-b15d-df980e20a515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div</value>
+      <webElementGuid>33af9953-2c03-4e77-8ce4-1a31655f4b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'a993e4c4e781-0' and (text() = ' SST ' or . = ' SST ')]</value>
+      <webElementGuid>8463f77b-5c8c-4554-9da0-df751d8cdd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -88,54 +160,6 @@
       <type>Main</type>
       <value>//ng-dropdown-panel[@id='adfaa2137200']/div/div[2]/div</value>
       <webElementGuid>9fcc62e6-df4f-4245-92fa-39759e045e14</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select maintenance workscope'])[1]/following::div[5]</value>
-      <webElementGuid>1ac722fd-2c44-44e1-bc3e-396e2aa25d7c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Task'])[1]/following::div[8]</value>
-      <webElementGuid>fffec170-910d-4ca3-b62a-0d64ea36b5f4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REP'])[1]/preceding::div[1]</value>
-      <webElementGuid>0bdb25e8-c906-4187-aa0a-78e67be90011</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='O/H'])[1]/preceding::div[2]</value>
-      <webElementGuid>b017bad1-5fc2-4838-a7e3-8e7bf4c95034</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='SST']/parent::*</value>
-      <webElementGuid>5e6f46e7-6b79-493d-be67-0ec8d6009473</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//ng-dropdown-panel/div/div[2]/div</value>
-      <webElementGuid>37ed70a8-1658-4e8a-b9cf-debdee3af605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
