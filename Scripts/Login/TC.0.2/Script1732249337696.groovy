@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser(GlobalVariable.baseURL)
 
-WebUI.navigateToUrl('https://workchestra-moonlay.southeastasia.cloudapp.azure.com:4200/Identity/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DWorkchestraWeb%26redirect_uri%3Dhttps%253A%252F%252Fworkchestra-moonlay.southeastasia.cloudapp.azure.com%253A4200%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3DWorkchestraWebAppAPI%2520openid%2520profile%26state%3De258adebf06e44c08e677ea649d1e236%26code_challenge%3DaRqN0m8QahGxqEA-B1owvlFtIjztUA0ig7nuKPffbiQ%26code_challenge_method%3DS256%26response_mode%3Dquery')
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/div_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '803090000')
+WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), '803090')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Password'), 'u1JKymZE/SfHAn9XxJys1oLyz6Gnq6KX')
+WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Page_ST Engineering Aerospace/button_Log in'))
 
