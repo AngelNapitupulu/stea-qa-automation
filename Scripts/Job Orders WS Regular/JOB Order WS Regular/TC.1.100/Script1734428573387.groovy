@@ -21,7 +21,6 @@ WebUI.openBrowser(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
-
 WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Username'), GlobalVariable.username)
 
 WebUI.setText(findTestObject('Object Repository/Page_ST Engineering Aerospace/input_Log in_Input.Password'), GlobalVariable.password)
