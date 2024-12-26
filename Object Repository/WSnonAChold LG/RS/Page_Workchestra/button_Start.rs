@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start</name>
+   <tag></tag>
+   <elementGuidId>a8df9ff3-e002-44a8-ad10-51761a3870a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-crr-form-renderer-section.crr-form-renderer-section-761-1.ng-star-inserted > div.card > div.card-header.sticky-header > div.mb-0 > div.row > div.col.col-lg-12 > div.float-right > button.btn.btn-primary.mr-2.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94e1ace9-bef5-4b1b-b057-3808e8abf0dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67ba3acf-f5f6-45b1-9365-b33f9469bb4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-2 ng-star-inserted</value>
+      <webElementGuid>290949aa-29f1-4d45-ae41-a0b51ad6b044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Start </value>
+      <webElementGuid>6cf84f1f-d116-44f5-957d-3c2f6e8a5061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/app-eworkbag-crr-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/app-crr-form-renderer-sections-container[1]/div[@class=&quot;mt-1 ml-3 mr-3 h-100&quot;]/app-crr-form-renderer-section[@class=&quot;crr-form-renderer-section-761-1 ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header sticky-header&quot;]/div[@class=&quot;mb-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-lg-12&quot;]/div[@class=&quot;float-right&quot;]/button[@class=&quot;btn btn-primary mr-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>45972b9c-5cbb-4c29-830f-f2ab9da1be30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>4d25ebe3-8f94-4dc8-9b13-14e98f409ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/following::button[2]</value>
+      <webElementGuid>36cf3d0a-6923-41c2-a29b-83689d8e8bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse All'])[2]/following::button[3]</value>
+      <webElementGuid>8202b20b-97f9-43f3-a223-2a6cc1c4d9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Router'])[1]/preceding::button[1]</value>
+      <webElementGuid>873a6f05-bb29-4346-a74e-2b53a84db7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOPM 20-30-02'])[2]/preceding::button[3]</value>
+      <webElementGuid>66c71605-c93e-4eb4-8766-18e3e2789ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-crr-form-renderer-section[2]/div/div/div/div/div/div/button</value>
+      <webElementGuid>a307ab91-496f-41ed-85e5-209348e02a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Start ' or . = ' Start ')]</value>
+      <webElementGuid>69f5d210-4eb0-46f6-a181-4b5e582f5b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>98e83826-5014-4552-963f-cd27159ad8e6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary.mr-3</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[47]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[40]</value>
+         <key>CSS</key>
+         <value>div.modal-footer.text-right > button.btn.btn-primary.mr-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f2d6ecd5-d515-48c4-93a5-596de22c6af9</webElementGuid>
+      <webElementGuid>ea624b62-4c86-440f-9c5e-52746fa2d126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d48bdd8e-da63-4efe-91d1-65d48da382f9</webElementGuid>
+      <webElementGuid>6ddea30e-69cf-44f1-98b9-e73a6802ddfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary mr-3</value>
-      <webElementGuid>15690e46-741c-46f5-bdf7-04ba7d14ec48</webElementGuid>
+      <webElementGuid>a89061d7-7bd7-4608-b8da-88fafd3b72fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Add </value>
-      <webElementGuid>9da18477-72f8-4562-a615-1b2645539a81</webElementGuid>
+      <webElementGuid>2964215a-9a4b-4603-923f-0fdac5ecbf25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,10 +55,58 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer text-right&quot;]/button[@class=&quot;btn btn-primary mr-3&quot;]</value>
-      <webElementGuid>c6fc6f15-eaa7-4866-86b8-b351f9817a08</webElementGuid>
+      <webElementGuid>024f83f7-7f51-4d17-9137-6cd9f97043db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[47]</value>
+      <webElementGuid>60d3c318-fdde-44a1-bdbd-a6eaaeba837a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changes of QAD003-02N (78/CRR/001-002)'])[1]/following::button[1]</value>
+      <webElementGuid>13eaf7d4-523f-4b6b-b73b-9616b8525cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changes of QAD003-02N (78/CRR/001-001)'])[1]/following::button[2]</value>
+      <webElementGuid>41ce9e5b-0751-43d2-b421-c5c0b39351bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
+      <webElementGuid>920f471c-0f62-4499-8619-60db26836f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>08b1ed34-3e40-48a5-8847-5cba594fe8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add ' or . = ' Add ')]</value>
+      <webElementGuid>802a9f24-0b2e-4da0-b409-7237dd1aa320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -80,29 +128,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MAIN ROTOR HEAD'])[4]/following::button[1]</value>
       <webElementGuid>affc19f2-cba8-4bc8-85f0-2e4580aab8c8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
-      <webElementGuid>02cf80bd-6c7d-463d-8333-97098ef7c692</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>f31b0143-1de2-4034-94c0-218265b227b8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Add ' or . = ' Add ')]</value>
-      <webElementGuid>5187f4bd-54db-4d17-a309-ea199086c3b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

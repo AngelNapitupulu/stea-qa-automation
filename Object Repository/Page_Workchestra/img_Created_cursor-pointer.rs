@@ -6,12 +6,12 @@
    <elementGuidId>f8ba46f3-256a-4438-9de1-89a235a29e69</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@alt='Tap Card Icon']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Tap Card Icon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a7d95280-2b8d-4e06-9f3f-e4e6b772ffc9</webElementGuid>
+      <webElementGuid>83a72600-93d8-4d6d-83eb-d21642e56fdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Tap Card Icon</value>
-      <webElementGuid>100a279b-0c9d-4288-9e2a-b5d079795c0a</webElementGuid>
+      <webElementGuid>416ec340-dc0b-4295-ac10-9aea84eeef2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>src</name>
       <type>Main</type>
       <value>img/tap-card-icon.png</value>
-      <webElementGuid>1e8186bc-0ec6-4c80-8895-7d3ccca01fda</webElementGuid>
+      <webElementGuid>9889d771-7de2-41ae-a6f1-7b1abd0333df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cursor-pointer</value>
-      <webElementGuid>f9b58def-d7ca-4578-87b7-6a4e2bba2795</webElementGuid>
+      <webElementGuid>40f944b2-18cd-4abe-8ac9-2185c0795f92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/app-prompt-for-auth-card[1]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;text-center&quot;]/img[@class=&quot;cursor-pointer&quot;]</value>
-      <webElementGuid>e5861bc2-9021-4675-9ed4-12a046e0981f</webElementGuid>
+      <webElementGuid>b76bca1b-3088-4583-8e47-266e38ca9d28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,23 +63,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Tap Card Icon']</value>
-      <webElementGuid>037d7dfc-31e7-42b2-bd14-949f9f0d9fec</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/img</value>
-      <webElementGuid>61e8e01a-6ee6-40ee-9e90-378f19800336</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@alt = 'Tap Card Icon' and @src = 'img/tap-card-icon.png']</value>
-      <webElementGuid>3fe15dfa-6e9e-44c3-ab15-acebecfb9775</webElementGuid>
+      <webElementGuid>38616fdc-67d0-4747-bd44-a3c389592718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +71,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/img</value>
-      <webElementGuid>a3b26cce-23a9-41af-9b74-1da86addafdf</webElementGuid>
+      <webElementGuid>cffbcbed-2f49-4af5-b903-befc3efe217e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Tap Card Icon' and @src = 'img/tap-card-icon.png']</value>
+      <webElementGuid>d96b3052-e386-40ef-87ed-bb9b2fcfd80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>128407c7-8f79-4aa4-9f69-f0492b7547e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

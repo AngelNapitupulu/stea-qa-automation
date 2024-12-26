@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a6963dc9-e8b9-439b-9e47-a8f94b571c05</webElementGuid>
+      <webElementGuid>a79eb889-9bac-41c1-b0fa-728fa39c0319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>13259224-8d5e-4fd9-a51b-69decebb8787</webElementGuid>
+      <webElementGuid>d8d4acd3-0025-4032-bd14-acf498761a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>0787267b-bf21-43ee-b5c7-912f500a40c2</webElementGuid>
+      <webElementGuid>903fa8c7-7bf5-45ca-866b-38edf58f3daf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>b2c40e9d-7fd8-4aea-ac9a-97376774e700</webElementGuid>
+      <webElementGuid>22e66c0f-f40e-408d-b726-4fff3923adb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8a5b904d-785a-4c01-8738-cff73298d80b</webElementGuid>
+      <webElementGuid>7f8c3dae-28f2-4913-99a0-7554ac79a580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CRR Forms</value>
-      <webElementGuid>ce44a8e6-6055-4070-ba4a-16f6f4a388a0</webElementGuid>
+      <webElementGuid>e0b1781c-ca52-4d61-bcab-f223a4d4801c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>dd10de98-c71a-4e6d-8fd5-8f581c11f2c2</webElementGuid>
+      <webElementGuid>24771a1a-fc94-4bd3-8901-c1f2b65e351a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@id=''])[3]</value>
-      <webElementGuid>81cc350f-51a5-4711-990c-c6b5059bb07b</webElementGuid>
+      <webElementGuid>2bb9c720-98ee-4402-9974-b170c0ab5841</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Defect Rectification Record'])[1]/following::a[1]</value>
-      <webElementGuid>4c8a84b3-100b-44a0-b7e3-de86ec175f41</webElementGuid>
+      <webElementGuid>f214d321-6a5a-4442-b9db-af3cc6e59357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Stages'])[1]/following::a[2]</value>
-      <webElementGuid>516ba237-6e0e-4886-9b94-9a66aad838d1</webElementGuid>
+      <webElementGuid>a4a27e64-a397-4cfa-aafc-36a5f9c39ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance Declaration'])[1]/preceding::a[1]</value>
-      <webElementGuid>d7e92cfc-0e1c-40bb-ab39-8362ec474d79</webElementGuid>
+      <webElementGuid>7930a762-ca8c-4773-9c3b-66b32a578584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
-      <webElementGuid>c5221842-6ade-4a6e-bfca-de1a44c0a4ad</webElementGuid>
+      <webElementGuid>7d51ba1a-d129-4e09-ab7b-1c5c1f916599</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>4935dd9b-6dad-43c2-b310-dcf3e5737c9b</webElementGuid>
+      <webElementGuid>d0e647ba-c4d5-40b6-8a8b-72f384e8aa63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = 'CRR Forms' or . = 'CRR Forms')]</value>
-      <webElementGuid>4b5a2301-3632-4652-b731-8132bbd72483</webElementGuid>
+      <webElementGuid>402f75c4-a89d-4acc-8168-9f92f5e2f9f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

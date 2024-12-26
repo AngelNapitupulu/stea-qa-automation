@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Confirm and Sign Amendment Please place_7a7eb6</name>
+   <tag></tag>
+   <elementGuidId>620c506e-0e8b-4dcb-8095-ae16187e5df5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8c59c8a-5674-467a-ae0c-fceb730d7477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>2903baf9-eaca-452f-a626-7e8da944a5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm and Sign Amendment Please place auth card on reader to complete amended changes. Pre-disassembly Testing. ReferenceReason for Amendment3834000-100Missing Field This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
+      <webElementGuid>6d01c84f-666e-4629-b9ba-496db7d3d105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>3197f335-2caa-4ce5-b9be-11fbf15c8b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container/div[2]/div</value>
+      <webElementGuid>3d0425eb-ab9e-4b3f-9bb9-37486d264c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Confirm and Sign Amendment Please place auth card on reader to complete amended changes. Pre-disassembly Testing. ReferenceReason for Amendment3834000-100Missing Field This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ' or . = 'Confirm and Sign Amendment Please place auth card on reader to complete amended changes. Pre-disassembly Testing. ReferenceReason for Amendment3834000-100Missing Field This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ')]</value>
+      <webElementGuid>fea7ccde-35f9-4aa6-a959-a924bf098f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

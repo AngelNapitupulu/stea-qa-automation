@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal-container_Update Reference Update ref_4a5bc8</name>
+   <tag></tag>
+   <elementGuidId>cee4339f-a870-4c52-8a8d-516cafa70ae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>modal-container.modal.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>modal-container</value>
+      <webElementGuid>191f428b-0a68-4ac4-8d01-f02f37ea2f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>dca2f610-35fc-47c1-8b22-c8f0b9206848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>75e81f53-bc4a-4b8a-86c9-f14f74097abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show</value>
+      <webElementGuid>e0d89579-424a-4038-ac39-9b31c6fa8a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0757de1d-72d2-47fb-9ff7-74139fe51f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Reference× Update reference under workstage: Pre-disassembly TestingManual ReferenceSelect manual ref×14 (rev: 002, dated: 01 Jun 2021)×Page ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel </value>
+      <webElementGuid>1817dfe8-bfaa-48e2-b485-464fafa4fffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]</value>
+      <webElementGuid>3a560b80-e442-4d2a-bcfe-df1a2aa4327b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container</value>
+      <webElementGuid>9d6c2c60-1f1b-47a4-88ca-eb75128c151b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//modal-container[(text() = 'Update Reference× Update reference under workstage: Pre-disassembly TestingManual ReferenceSelect manual ref×14 (rev: 002, dated: 01 Jun 2021)×Page ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel ' or . = 'Update Reference× Update reference under workstage: Pre-disassembly TestingManual ReferenceSelect manual ref×14 (rev: 002, dated: 01 Jun 2021)×Page ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel ')]</value>
+      <webElementGuid>952633a3-ad2f-475e-b2b2-0e90bfb3d200</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

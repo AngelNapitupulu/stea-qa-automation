@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RW32-11-10002</name>
+   <tag></tag>
+   <elementGuidId>52e48807-c97f-4f15-bc80-d43627f2569a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ngb-typeahead-0-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ngb-typeahead-0-1 > span.ng-tns-c92-2.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea694304-8a12-4e60-ad8c-e1fb97bc03f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c92-2 ng-star-inserted</value>
+      <webElementGuid>faefb1d3-b2f2-40ee-9c85-b17f23727762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RW/32-11-10/002</value>
+      <webElementGuid>e36aee3c-ac78-441f-a87e-1a010d006b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngb-typeahead-0-1&quot;)/span[@class=&quot;ng-tns-c92-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>3c045206-b622-4f9a-9d4c-b8f13768356b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ngb-typeahead-0-1']/span</value>
+      <webElementGuid>6b76cc7c-ef9c-4164-a136-8d8b216537d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::span[1]</value>
+      <webElementGuid>9e9e065c-ceeb-4bb5-9aac-820690123f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='W/32-11-10/002']/parent::*</value>
+      <webElementGuid>3c2a4eab-f808-4360-bf55-fe308c5f7b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//typeahead-container/button[2]/span</value>
+      <webElementGuid>49f597e5-288e-4b53-9155-34e172306b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'RW/32-11-10/002' or . = 'RW/32-11-10/002')]</value>
+      <webElementGuid>1e2b2673-67ae-49c1-86cc-fabd18a44ebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

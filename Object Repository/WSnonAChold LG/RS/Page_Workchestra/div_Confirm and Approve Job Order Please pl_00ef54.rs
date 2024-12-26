@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Confirm and Approve Job Order Please pl_00ef54</name>
+   <tag></tag>
+   <elementGuidId>e94235e4-ae73-479b-92b0-5882a89aa659</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07298a12-3ecc-4dbb-bb5a-2d29c3ff3a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>0797a798-ac51-45f8-9a90-35326f6d25b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm and Approve Job Order Please place auth card on reader to approve job order 7801/41/31012963E This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
+      <webElementGuid>6799cf0b-fe07-4dc7-9851-ac74d3e4f36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>2afe1559-b187-40e6-a83b-7ae2b05a9c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container/div[2]/div</value>
+      <webElementGuid>23eddbe0-f1ce-4737-b7ab-4a531f705cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Confirm and Approve Job Order Please place auth card on reader to approve job order 7801/41/31012963E This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ' or . = 'Confirm and Approve Job Order Please place auth card on reader to approve job order 7801/41/31012963E This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ')]</value>
+      <webElementGuid>0e06d578-17dd-4abc-8dd6-ad1e9ff3c56d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

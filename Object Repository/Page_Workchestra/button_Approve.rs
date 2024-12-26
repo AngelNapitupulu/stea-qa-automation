@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-sm.float-right.ml-3.ng-star-inserted</value>
+         <value>#crr-form-approve-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Hard Copy Crr'])[1]/following::button[1]</value>
+         <value>//button[@id='crr-form-approve-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>021302b4-a2c3-4335-acf6-dc46230652d3</webElementGuid>
+      <webElementGuid>bd19e626-8f91-492c-846e-645c8f96dcdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f2dce524-b511-4290-a239-2a0169ee3be5</webElementGuid>
+      <webElementGuid>6262e8c8-0624-4423-a88d-de202d41dbd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-sm float-right ml-3 ng-star-inserted</value>
-      <webElementGuid>7fb8f90a-7eaf-463d-af4d-d8f69aac7c5e</webElementGuid>
+      <value>btn btn-primary mr-3 ng-star-inserted</value>
+      <webElementGuid>e31e242c-a484-4323-8462-c94d7a58dc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +47,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Approve </value>
-      <webElementGuid>4eac5519-9823-43bb-a686-58971840c35b</webElementGuid>
+      <webElementGuid>1786b91b-bcea-46a2-93cc-a4cdb0f4d507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col col-sm-12&quot;]/button[@class=&quot;btn btn-primary btn-sm float-right ml-3 ng-star-inserted&quot;]</value>
-      <webElementGuid>bc30d111-95e8-457a-a965-568abef3834f</webElementGuid>
+      <value>id(&quot;crr-form-approve-button&quot;)</value>
+      <webElementGuid>d8b0f29f-e8af-4caf-8365-2c46a214cfc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,10 +63,82 @@
       <name>id</name>
       <type>Main</type>
       <value>crr-form-approve-button</value>
-      <webElementGuid>daa48aef-b282-4650-a1b8-d0039abd92c9</webElementGuid>
+      <webElementGuid>afb123ef-1c04-404c-b704-3bb655e224d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='crr-form-approve-button']</value>
+      <webElementGuid>c71693fa-93fb-4caf-8497-30328981a139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar-view-mode']/div/button[2]</value>
+      <webElementGuid>8810ddc0-75c8-4e23-957d-5410aaaa62ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::button[1]</value>
+      <webElementGuid>2931b869-84bd-4fd7-aeda-8ed866d370ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto NA'])[2]/following::button[1]</value>
+      <webElementGuid>674e9889-ee6f-4136-b942-7531cfb982d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::button[1]</value>
+      <webElementGuid>acf32aab-ebef-40d4-be59-72defa92fc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRR Form Information'])[1]/preceding::button[2]</value>
+      <webElementGuid>cbadd6cf-2b0d-431b-8231-416f15144633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>42b0c03a-2b67-4901-8253-24b5f3094926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button[2]</value>
+      <webElementGuid>2fcb02b1-c681-4617-9058-4d901d497c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'crr-form-approve-button' and @type = 'button' and (text() = ' Approve ' or . = ' Approve ')]</value>
+      <webElementGuid>2e5ce7b2-f569-43b2-ae49-dde3928a0089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -100,34 +172,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
-      <webElementGuid>3de55b78-88c6-4522-86ef-955e5f02b48a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/button[2]</value>
-      <webElementGuid>b27702c9-5e5b-494d-b105-4f14084d92eb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Approve ' or . = ' Approve ')]</value>
       <webElementGuid>490eeecc-4cb9-4aaf-b2ca-045fcc598e00</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='crr-form-approve-button']</value>
-      <webElementGuid>1a827f6f-1bae-4261-92c1-771cd62876fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,32 +190,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::button[1]</value>
-      <webElementGuid>bb1a5542-9a7d-4d57-a64e-8711a954a515</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
       <webElementGuid>7a17240a-29d9-4309-a0f7-92bab10572ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::button[1]</value>
-      <webElementGuid>23e74671-a266-4ff5-9735-7e939b93a781</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRR Form Information'])[1]/preceding::button[2]</value>
-      <webElementGuid>b893da19-ef8b-4630-b8ad-3eda2069693a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -176,14 +200,6 @@
       <type>Main</type>
       <value>//nav/div/button</value>
       <webElementGuid>efe78a0b-9223-4b52-97f5-f4bc16f22a0a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'crr-form-approve-button' and @type = 'button' and (text() = ' Approve ' or . = ' Approve ')]</value>
-      <webElementGuid>331e9d5e-0f8f-40fd-95c9-f97c0039a0b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

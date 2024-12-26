@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Approve and Sign Tool TaggingPlease, pl_5010b2</name>
+   <tag></tag>
+   <elementGuidId>4f931c58-d277-4213-b811-21e5e02c4e67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d1b3101-7411-4e20-b9b6-46bc1724320c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>6382d21a-5d16-4a4c-8677-a216f90ac8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve and Sign Tool TaggingPlease, place auth card on reader to approve materials used. This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel </value>
+      <webElementGuid>a403805d-353f-4849-bb98-84341f956031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>be450f55-de3d-4faf-9bfe-6d38eb13355f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container/div[2]/div</value>
+      <webElementGuid>bf3e3272-be87-45e4-892a-136fd69d2979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Approve and Sign Tool TaggingPlease, place auth card on reader to approve materials used. This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ' or . = 'Approve and Sign Tool TaggingPlease, place auth card on reader to approve materials used. This application is in Auth Card Test mode. This module will not connect to the card reader. Click on the image below to simulate reading from the auth card. Cancel ')]</value>
+      <webElementGuid>3f417011-7409-470c-ad80-fb29d53f3368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

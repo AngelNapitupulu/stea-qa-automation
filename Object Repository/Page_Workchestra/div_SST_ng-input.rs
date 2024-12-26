@@ -6,12 +6,12 @@
    <elementGuidId>2fc26213-e174-4de0-9abb-06308d9748f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='File Attachments'])[1]/following::div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.ngx-spinner-overlay.ng-tns-c33-1.ng-trigger.ng-trigger-fadeIn.ng-star-inserted.ng-animating</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-spinner/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dc098902-f6ac-40e2-a651-c8f0158a4785</webElementGuid>
+      <webElementGuid>78931ac9-d76f-499d-a08c-175faa9d6c75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ngx-spinner-overlay ng-tns-c33-1 ng-trigger ng-trigger-fadeIn ng-star-inserted ng-animating</value>
-      <webElementGuid>8a8240eb-9af9-4742-a953-4c701e41e5ad</webElementGuid>
+      <webElementGuid>f6913a6a-ab34-4693-b649-f9926104e0d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,10 +71,18 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/ngx-spinner[@class=&quot;ng-tns-c33-1 ng-star-inserted&quot;]/div[@class=&quot;ngx-spinner-overlay ng-tns-c33-1 ng-trigger ng-trigger-fadeIn ng-star-inserted ng-animating&quot;]</value>
-      <webElementGuid>8f831874-e161-4730-be75-fb30a969e4e0</webElementGuid>
+      <webElementGuid>81c1e4d6-a0ea-4a8e-a708-e75a45d47059</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-spinner/div</value>
+      <webElementGuid>ce201ec7-a142-46cc-aafa-dc9551c21f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -88,14 +96,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add File'])[3]/following::div[5]</value>
       <webElementGuid>7ce10675-1f8b-4d2d-87fd-528cead12cce</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//ngx-spinner/div</value>
-      <webElementGuid>535699db-8808-491d-843c-791586548cc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

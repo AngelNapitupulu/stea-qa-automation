@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Update Reference Update reference under_98c2c9</name>
+   <tag></tag>
+   <elementGuidId>46d1a93a-90b9-4075-8805-cca97697ef6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>925490eb-6121-4937-894e-908939a21372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>341a3ce7-d3fc-4ce7-a0f9-36cbbe3829d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Reference× Update reference under workstage: Preliminary InspectionPage ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel </value>
+      <webElementGuid>801c0e5d-4d84-43fd-931b-515bce35dde3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>4c0f76a3-5207-4bf4-80eb-6bb0dfea8fc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container/div[2]/div</value>
+      <webElementGuid>c48d97f5-2c32-4fa0-958d-5d994ec7f248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Update Reference× Update reference under workstage: Preliminary InspectionPage ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel ' or . = 'Update Reference× Update reference under workstage: Preliminary InspectionPage ReferenceReason for Amendment * Typo Error  Missing Field  For Further Elaboration  Redoing of workstep or workstage due to a change in manual  Redoing of workstep or workstage due to a change in workscope  Others  Update  Cancel ')]</value>
+      <webElementGuid>38474f8d-9559-41a1-b126-bcd7cdef2ce3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

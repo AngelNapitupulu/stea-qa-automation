@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Confirm workscope change for Job No 780_bc1d40</name>
+   <tag></tag>
+   <elementGuidId>f1c459c2-6ed0-4cb7-8b6d-da5fa5289bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//modal-container/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcf6d64b-85c2-4dc9-867e-ac3f8d319bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>017baae3-3870-47ed-9c45-dc44491f5626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Confirm workscope change for Job No: 7801/41/31012963E× Changing workscope from SST to REP will require Release Signatory to proceed. Are you sure you want to change workscope for this job?  Cancel  Confirm </value>
+      <webElementGuid>65ca9c7f-1e00-467e-89eb-8b6f9d7a8cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>1acd7e27-7a26-4799-82d4-a204425ca9fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//modal-container/div[2]/div</value>
+      <webElementGuid>eaf5b033-9e49-405a-8215-8f1472a33145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Confirm workscope change for Job No: 7801/41/31012963E× Changing workscope from SST to REP will require Release Signatory to proceed. Are you sure you want to change workscope for this job?  Cancel  Confirm ' or . = ' Confirm workscope change for Job No: 7801/41/31012963E× Changing workscope from SST to REP will require Release Signatory to proceed. Are you sure you want to change workscope for this job?  Cancel  Confirm ')]</value>
+      <webElementGuid>321fb2d4-2385-4278-8f7b-3f4b6c22f40f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

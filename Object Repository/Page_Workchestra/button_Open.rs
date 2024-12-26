@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='by EmpNo:80309001 on 06/Dec/24'])[14]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='by EmpNo:80309000 on 23/Dec/24'])[20]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>723c135b-8610-4e9b-85aa-02ca52bb1066</webElementGuid>
+      <webElementGuid>cc8148fd-98fd-482d-ad9f-02c9937a8460</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-primary m-1</value>
-      <webElementGuid>7ecfd7e2-597e-4cbb-a7d8-9fbf4f84b518</webElementGuid>
+      <webElementGuid>f9e8b1fa-d302-47ef-813b-7669c7ee77b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Open </value>
-      <webElementGuid>66f17596-0f6b-49e2-8b9e-01d506106d6d</webElementGuid>
+      <webElementGuid>1c0a58f6-4964-45b1-a263-4b13b635df68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,10 +47,58 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/wc-job-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-1 ng-star-inserted&quot;]/div[@class=&quot;mt-0 ml-3 mr-3&quot;]/div[@class=&quot;card shadow-sm&quot;]/div[@class=&quot;card-body p-2 pl-4&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/tabset[@class=&quot;tab-container&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/app-job-crr-forms[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[6]/button[@class=&quot;btn btn-sm btn-primary m-1&quot;]</value>
-      <webElementGuid>de8c7da1-a91d-4880-9e37-939ea4e5db90</webElementGuid>
+      <webElementGuid>ff9020e3-cf0b-4456-8d63-42be6ffcac40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by EmpNo:80309000 on 23/Dec/24'])[20]/following::button[1]</value>
+      <webElementGuid>0bf2719c-ba20-4ca2-94a8-da6b07039db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[20]/following::button[1]</value>
+      <webElementGuid>33e01ce5-8fe2-43d7-8608-5729f8ace084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[3]/preceding::button[1]</value>
+      <webElementGuid>cb0bc722-1c93-4167-8374-089bbf89c7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routers'])[1]/preceding::button[1]</value>
+      <webElementGuid>30f4e732-47f4-4686-b162-9f37944405dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/button</value>
+      <webElementGuid>51483cf1-1706-4ad5-8604-93dc181f4761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Open ' or . = ' Open ')]</value>
+      <webElementGuid>e22316c4-a0be-4f45-8a8b-c726766035da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -70,32 +118,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[3]/preceding::button[1]</value>
-      <webElementGuid>496f925f-7da9-45e3-8ef1-acffe6fefd7d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EASA (EASA.145.0139)'])[1]/preceding::button[1]</value>
       <webElementGuid>ab13f143-efc1-474f-ab78-6d2303e8bd44</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[2]/td[6]/button</value>
-      <webElementGuid>bb70e6e0-544a-4abd-ae36-b5cdf9232d80</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = ' Open ' or . = ' Open ')]</value>
-      <webElementGuid>173f67cb-fed7-4e90-9d54-22d17e93c9d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
